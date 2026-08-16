@@ -1,0 +1,4 @@
+# The PDFs predate the repo's current content (games lesson, extra cheat
+# sheets, mnemonics) and can't be regenerated automatically here — the
+# markdown is the canonical, printable format.
+*.pdf
