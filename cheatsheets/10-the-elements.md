@@ -13,7 +13,7 @@
 
 - ☐ Simple readable masses, smooth muscular curves
 - ☐ Crest lags base (overlap champion) · droplets = tiny balls on arcs
-- ☐ Splash: impact → canopy → columns/droplets (hang at top) → fall → late soft ripples
+- ☐ Splash: impact → rim → columns/droplets (hang at top) → fall → late soft ripples
 
 **FIRE — buoyant appetite:**
 

@@ -975,11 +975,11 @@ Effects animation — the elements — treated the way this guide treats everyth
 
 **How to draw it:** smooth, muscular curves; simple readable masses (a wave is one clear silhouette — the solid outline shape — before it is a thousand ripples). Droplets separate into their own small shapes and fly on **arcs** (curved paths), like tiny thrown balls.
 
-**How to time it:** generous and eased. The splash lifecycle: impact → a canopy rises (fast, wide spacing) → columns and droplets climb, slow at the top (bunched spacing — hang time!) → fall → rings ripple outward, late and soft, the last thing to settle. Follow-through everywhere: water keeps sloshing long after the cause has stopped.
+**How to time it:** generous and eased. The splash lifecycle: impact → a rim rises (fast, wide spacing) → columns and droplets climb, slow at the top (bunched spacing — hang time!) → fall → rings ripple outward, late and soft, the last thing to settle. Follow-through everywhere: water keeps sloshing long after the cause has stopped.
 
 **Its personalities:** playful fountain (bouncy timing, fat droplets) = joy. Slow rolling swell (long timing, deep eases) = calm, sorrow, vastness. Chopped stabbing spray (fast, jagged for water) = storm, rage.
 
-**Mini-drill:** a droplet falls into a still pool: drop (stretch as it falls) → canopy splash (2–3 frames) → two or three droplets arc out and fall → expanding ripple rings settle. 10–12 drawings.
+**Mini-drill:** a droplet falls into a still pool: drop (stretch as it falls) → rim splash (2–3 frames) → two or three droplets arc out and fall → expanding ripple rings settle. 10–12 drawings.
 
 ---
 
