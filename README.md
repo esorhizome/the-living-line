@@ -1,6 +1,6 @@
 # The Living Line
 
-**A hand-drawn (and hand-pixelled) animation guide to personality, persona & appeal** — written for people who animate in [Clip Studio Paint EX](https://www.clipstudio.net/en/) at a desk and [ibisPaint X](https://ibispaint.com/) on a phone, and whose attention span deserves to be designed for rather than apologized about.
+**A hand-drawn (and hand-pixelled) animation guide to personality, persona & appeal** — written for people who animate in [Clip Studio Paint EX](https://www.clipstudio.net/en/) (a paid app; EX is the top grade) at a desk and [ibisPaint X](https://ibispaint.com/) (free with ads; optional paid ad removal) on a phone, and whose attention span deserves to be designed for rather than apologized about.
 
 The guide's one thesis: personality in animation is not *what* a character does — it is *how the drawings choose to do it*. The same head-turn, re-timed, reads as shy, smug, alien, dignified, or exhausted. Every lesson teaches the dials that make that choice.
 
@@ -32,7 +32,7 @@ Animate the thing that causes the motion, then the body that carries it, then th
 
 ## Housekeeping notes
 
-- **Every link was fetched and verified live on 16 August 2026** — the pixel-art links of Part VII on 20 August 2026. Only free *and* clearly legal sources are cited: creators' own channels, official documentation, Wikipedia, Khan Academy, and genuinely public-domain films on the Internet Archive. One 2010 tutorial whose site retired it is cited via its Wayback Machine snapshot; one early-2000s pixel-art classic whose site is long gone is cited via a community mirror, and labelled as such.
+- **Every link was re-audited on 21 August 2026** (originally verified 16 August 2026; the pixel-art links of Part VII on 20 August). Only free *and* clearly legal sources are cited: creators' own channels, official documentation, Wikipedia, Khan Academy, and genuinely public-domain films on the Internet Archive. Paid tools and books, where mentioned, are always labelled with their price or licence. A few sources whose live pages have since vanished (one 2010 walk-cycle tutorial, Cyangmou's two DeviantArt tutorial charts, the Pixelation *Ramblethread*) are cited via Wayback Machine snapshots; one early-2000s pixel-art classic whose site is long gone is cited via a community mirror — all labelled as such in place.
 - **The code in Lesson 14** was checked against the engines' current official documentation the same day, and the web (CSS/JavaScript) examples were run in a real browser. **The settings in Lesson 18** (pixel art in Clip Studio Paint, ibisPaint, the pixel editors, and the engines) were checked against each tool's official documentation on 20 August 2026.
 - Drills assume 15–25 minutes a sitting. A skipped day is a skipped day; the practice loop is a carousel, not a ladder.
 
