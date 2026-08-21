@@ -14,9 +14,9 @@
 
 - ☐ Day 1 Ball → Day 2 Walk → Day 3 Head turn → Day 4 Overlap → Day 5 Element → Day 6 Flight → Day 7 Rewatch & remix ONE dial
 - ☐ Always add a personality twist (tired / cocky / haunted / elegant / scruffy)
-- ☐ Too easy? Do it as a flour sack
+- ☐ Too easy? Do it as a flour sack · Gone stale? Do it at 16 px in 4–8 frames (Sheet 17)
 
-**The free film shelf (all public domain, links in the guide's Lesson 15):**
+**The free film shelf (all public domain, links in the guide's Lesson 19):**
 
 - ☐ Fleischer *Superman* (1941–43) — capes, effects, flight
 - ☐ *Gertie the Dinosaur* (1914) — personality through weight
