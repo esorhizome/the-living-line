@@ -1,4 +1,3 @@
-# The PDFs predate the repo's current content (games lesson, extra cheat
-# sheets, mnemonics) and can't be regenerated automatically here — the
-# markdown is the canonical, printable format.
-*.pdf
+# PDFs are tracked as of 21 Aug 2026: they are regenerated from the
+# markdown (the canonical format) whenever it changes, so they no
+# longer drift from the repo's content.
