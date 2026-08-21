@@ -1,6 +1,6 @@
-# The Living Line — Cheat Sheets (all fifteen, one printable file)
+# The Living Line — Cheat Sheets (all nineteen, one printable file)
 
-*Companion to [the guide](The_Living_Line_Guide.md). One sheet per lesson. Print this file, or screenshot the individual sheets in [cheatsheets/](cheatsheets/) for your phone. Each sheet re-defines its own jargon — no memory required. Links: see the guide's Lesson 15 (every one verified 16 Aug 2026).*
+*Companion to [the guide](The_Living_Line_Guide.md). One sheet per lesson. Print this file, or screenshot the individual sheets in [cheatsheets/](cheatsheets/) for your phone. Each sheet re-defines its own jargon — no memory required. Links: see the guide's Lesson 19 (every one verified 16 Aug 2026; the pixel-art links of Sheets 15–18 on 20 Aug 2026).*
 
 ---
 
@@ -179,6 +179,13 @@
 - ☐ Hover = tiny drift, never dead-still (dead-still = uncanny, on purpose only)
 - ☐ Landing: bunch drawings, toe-first, knees swallow momentum — or the GROUND cracks instead (superhuman)
 
+**Swimming (water = thick sky):**
+
+- ☐ Undulator: the body IS the wave — one S-curve travels nose → tail (backwards along the body, forwards through the water)
+- ☐ Tail-and-keel fish: firm body, sweeping tail, fins trail (drag); hovering = sculling, never dead-still
+- ☐ Darter: coil → burst (2–3 frames) → long eased glide — the drag always wins
+- ☐ Slow wide wave = serene/huge · fast tight wiggle = small/nervous · bubbles are the water's cape
+
 
 ---
 
@@ -339,9 +346,9 @@
 
 - ☐ Day 1 Ball → Day 2 Walk → Day 3 Head turn → Day 4 Overlap → Day 5 Element → Day 6 Flight → Day 7 Rewatch & remix ONE dial
 - ☐ Always add a personality twist (tired / cocky / haunted / elegant / scruffy)
-- ☐ Too easy? Do it as a flour sack
+- ☐ Too easy? Do it as a flour sack · Gone stale? Do it at 16 px in 4–8 frames (Sheet 17)
 
-**The free film shelf (all public domain, links in the guide's Lesson 15):**
+**The free film shelf (all public domain, links in the guide's Lesson 19):**
 
 - ☐ Fleischer *Superman* (1941–43) — capes, effects, flight
 - ☐ *Gertie the Dinosaur* (1914) — personality through weight
@@ -379,6 +386,151 @@
 
 **The dial that survives:** play-speed = the timing dial, live at runtime —
 ☐ Godot `speed_scale` ☐ Unity `animator.speed` ☐ Unreal `SetPlayRate` ☐ 0.6 = weary · 1.4 = eager
+
+
+---
+
+# Sheet 15 · The Grid — pixel fundamentals (Lesson 15)
+
+*Words on this sheet:* **pixel** = the smallest square of colour; in pixel art, placed by hand · **cluster** = touching pixels of one colour (the real brushstroke) · **orphan pixel** = a lone pixel of its colour (noise unless deliberate) · **jaggies** = uneven stair-steps on a line · **doubles** = a 2-pixel corner on a 1-pixel line · **AA (anti-aliasing)** = in-between colours placed by hand at stair-steps · **selout** = an outline that lightens where lit.
+
+> **P·I·X·L — "Palette small · Integer scale · eXport PNG · Look at 100 %."**
+
+**Before drawing:**
+
+- ☐ Automatic anti-aliasing OFF on pens, fills, selections, text (Lesson 18 has every menu)
+- ☐ 1-pixel pen · 1-pixel grid · a second view at 100 %
+- ☐ Start at 16×16, then 32×32 · pick the size as a casting choice (big head = cute; long body = serious)
+
+**While drawing:**
+
+- ☐ Think in clusters: big blobs first, edges last · hunt orphan pixels
+- ☐ Lines: constant steps = straight (3-3-3) · consistently changing steps = curve (1-1-2-3-5) · anything else = jaggy
+- ☐ Erase doubles (the L-corners) · lines are expensive — let contrast do their job
+- ☐ AA only on steps longer than 1 px · never on 45° lines · never outward past a game sprite's edge · not at all ≤ 16 px
+- ☐ Light source first → no pillow shading · break up banding
+- ☐ Outline = a casting choice: black = toy/arcade · selout = lit/dimensional · none = painterly
+
+**Check at 100 %:**
+
+- ☐ Silhouette test (fill it black) · does one pixel of eye-shift change the mood? It should
+- ☐ Angular clusters = hard/mechanical · rounded = soft/organic · stray orphans = scruffy (only if chosen)
+
+
+---
+
+# Sheet 16 · Colour in Pixels (Lesson 16)
+
+*Words on this sheet:* **palette** = the fixed list of allowed colours · **ramp** = dark→light colours for one material · **hue / saturation / value** = colour family / intensity / lightness · **hue-shifting** = hue moves cooler in shadow, warmer in light · **dithering** = two colours in a pattern the eye blends · **indexed colour** = pixels store palette numbers, so editing the palette recolours the image · **palette swap** = one sprite, new colours, "new" character.
+
+> **P·I·X·L — "Palette small · Integer scale · eXport PNG · Look at 100 %."** This sheet is the P.
+
+**Palette:**
+
+- ☐ Start with 4 colours (ARQ4) → 12 (AAP-Micro12) → 16 · 2–3 colours per body part · 6–12 per character
+- ☐ Borrow from Lospec: ENDESGA 32 · DawnBringer 32 · PICO-8 · Sweetie 16 · AAP-64
+- ☐ "If you can't make a good sprite in 4 colors, using 40 colors isn't going to help"
+
+**Ramps:**
+
+- ☐ Light source FIRST
+- ☐ Shadow = value down + hue towards cool · Light = value up + hue towards warm · saturation: decide (PIXNOTE nudges it up in shadow, Medeiros down) and stay consistent
+- ☐ Schlitter's ramps: ~20° of hue shift per swatch · value steps shrink near white · never 100 % saturation
+- ☐ 16×16 → 2 tones per material · 64×64+ → 4–5
+- ☐ Check in grey (desaturate, or a black layer on "Color" mode): if it still reads, the values work
+
+**Dither:**
+
+- ☐ Only between similar values · never on outlines · never the whole screen
+- ☐ Best for big flat areas, banding, and texture that does double duty (stone, sand, weave)
+- ☐ Heavy dither = gritty/retro/scruffy · flat clusters = clean/modern/elegant
+
+**The recolour trick (casting with colour only):**
+
+- ☐ Warm + contrast = hero · cool + desaturated = tired/ghost · dark + one hot accent = villain · pastels = gentle
+- ☐ Indexed mode (Aseprite/Pixelorama): edit the palette, not the pixels
+
+
+---
+
+# Sheet 17 · Pixel Animation (Lesson 17)
+
+*Words on this sheet:* **timing** = how long (frames or ms) · **spacing** = how far per frame — and in pixels the smallest step is a whole pixel · **ms per frame** = 100 ms = 10 fps · 125 ms = 8 fps · 83 ms ≈ 12 fps · 50 ms = 20 fps · **hold** = a frame shown longer · **sub-pixel animation** = moving an edge "half a pixel" by recolouring it, not moving it · **smear** = a stretched drawing for 1–2 frames to sell speed · **Contact / Down / Passing / Up** = the four cornerstone drawings of a walk.
+
+> **C·B·L·S — "Cool Bodies Lag Softly"** (cause → body → loose parts → settle) · **P·I·X·L** — judge every loop at 100 % and real speed.
+
+**The spacing problem (1 px is a big step):**
+
+- ☐ Hold frames instead of sliding pixels · move a part, not the whole · sub-pixel recolour for slow motion · or embrace the bounce
+- ☐ "Even 1 pixel of change is effective"
+
+**Frame budgets:**
+
+- ☐ 2 = flicker/blink · 3 = Mega Man run (A-B-C-B) · 4 = NES walk · 6 = walk with weight · 8 = fluid · 12+ = risk of floaty
+- ☐ 8 frames @ 80 ms = 4 frames @ 160 ms (same clock, different handwriting)
+- ☐ 8–12 fps standard · 4–6 fps idles · 15–24 fps attacks
+- ☐ Hold the extremes ~2× longer than the inbetweens · one slipped pixel loops forever
+
+**Idle (the personality machine):**
+
+- ☐ 4 frames · body ±1 px · chest edge up · head a frame later · hair a frame after that
+- ☐ Sub-pixel breath = calm · 2-px bob = nervous/eager · long hold at the bottom = heavy · eyes only = menace · swaggle on top = cocky
+
+**Walk / run / attack:**
+
+- ☐ 4 frames: Contact–Passing–Contact–Passing (body 1 px lower on Contact) · 6 adds Down · 8 has all four
+- ☐ Head bob = triangle wave, not sine · legs first across all frames, then arms, head, torso, loose parts
+- ☐ Dials: stride · bob (1 px poised, 2–3 px goofy) · arm swing (tight = stiff, full = peppy) · ms per frame · lean · asymmetry
+- ☐ Run: airborne frame, lean, ~60 ms · Jump: crouch 1–2 → stretch → slow apex → squash (games often skip the crouch)
+- ☐ Attack: load → smear at peak → HOLD the hit → 1–2 px follow-through → 1 px overshoot home (100/50/50/50/100/50 ms)
+
+**Loose parts & elements:**
+
+- ☐ Hair/cloth: 1 frame late · S-curve, crest moves 1 px to the tip each frame · doesn't need to move every frame
+- ☐ Fire: 3–4 colours, no outline, stable base, embers = legal orphans · Water: oval chains, crests steeper · Bolt: redraw each frame, 2–3 frames · Wind: swirls, 1 px/frame leaves
+
+
+---
+
+# Sheet 18 · The Pixel Studio — tools & pipeline (Lesson 18)
+
+*Words on this sheet:* **nearest neighbour** = scale with hard square pixels, no blur (a.k.a. hard edges / point / pixelated) · **integer scaling** = whole numbers only (2×, 4×, 8×) · **indexed colour** = pixels store palette numbers · **frame tag** = a named frame range (`walk`) · **pixel-perfect mode** = a pencil that removes corner doubles.
+
+> **P·I·X·L — "Palette small · Integer scale · eXport PNG · Look at 100 %."** This sheet is the I and the X.
+
+**Clip Studio Paint EX (Ver. 5 names; older names in brackets):**
+
+- ☐ New canvas in px · for animation set timeline **Image interpolation: Hard edges (nearest neighbor)**
+- ☐ View > Grid · Grid/Ruler bar settings: Gap 1 px, divisions 1 · Window > Canvas > New Window at 100 %
+- ☐ Pen > Marker group > **Dot pen** (1 px, no AA) · other pens: Advanced Tool Settings [Sub Tool Detail] > Anti-aliasing: **None**
+- ☐ Fill: Anti-aliasing off + **Area scaling off** · Auto select: AA off, Color margin 0 · Text: AA off
+- ☐ Transform: Interpolation method **Hard edges (nearest neighbor)** — always
+- ☐ Colour: Window > Color Set > Edit color sets → Add Color (drop a Lospec 1× PNG on a layer and eyedrop)
+- ☐ Scale BEFORE export: Edit > Change Image Resolution, 800 %, Hard edges → Export PNG (transparency on)
+- ☐ Animation export: Image sequence (PNG) at 1× for engines · Animated GIF for sharing with **Dithering OFF** · no sprite-sheet export (engines take sequences)
+
+**ibisPaint X:**
+
+- ☐ New canvas → Any Size 32×32 (or Animation)
+- ☐ View menu: **Grid** on (Grid 1 Interval 1) · **Display when zooming → Pixelated**
+- ☐ Digital Pen 1.0 px · brush parameters > Shape > **Antialias OFF** (eraser too)
+- ☐ Bucket: Strength 0 % · Expansion 0 px
+- ☐ Transform: Interpolation **Nearest Neighbor (Dot)** · Canvas > Resize: **Nearest Neighbor (Pixel)**
+- ☐ Save Image → PNG, Transparent ON · never "Super-resolution x2" · enlarge by Resize, export, keep the 1× original
+- ☐ Animation: Save Animation Video to share; save each frame as transparent PNG for a game
+
+**Purpose-built editors (pixel-perfect pencil, indexed palettes, ms timing, tags, sprite sheets):**
+
+- ☐ Free: **Pixelorama** (MIT; desktop + browser) · **LibreSprite** (GPL fork of 2016 Aseprite) · **Piskel** (browser) · **GraphicsGale** (Windows) · **Pixilart** (browser)
+- ☐ Paid standard: **Aseprite** $19.99 — or compile the public source yourself for personal use (legal; no redistributing)
+
+**In the engine (pixels stay square):**
+
+- ☐ GODOT: Stretch Mode viewport · Aspect keep · Scale Mode **integer** · Default Texture Filter **Nearest** · Snap 2D Transforms to Pixel
+- ☐ UNITY: sprites Filter **Point**, Compression **None**, same PPU · **Pixel Perfect Camera** (Upscale Render Texture / Pixel Snapping)
+- ☐ UNREAL: texture → Sprite Actions > **Apply Paper 2D Import Settings** · orthographic camera
+- ☐ WEB: `image-rendering: pixelated;` · `ctx.imageSmoothingEnabled = false;`
+- ☐ One base resolution, integer-scaled as a whole · snap the camera too
 
 
 ---

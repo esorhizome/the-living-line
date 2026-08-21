@@ -19,6 +19,13 @@
 - ☐ Hover = tiny drift, never dead-still (dead-still = uncanny, on purpose only)
 - ☐ Landing: bunch drawings, toe-first, knees swallow momentum — or the GROUND cracks instead (superhuman)
 
+**Swimming (water = thick sky):**
+
+- ☐ Undulator: the body IS the wave — one S-curve travels nose → tail (backwards along the body, forwards through the water)
+- ☐ Tail-and-keel fish: firm body, sweeping tail, fins trail (drag); hovering = sculling, never dead-still
+- ☐ Darter: coil → burst (2–3 frames) → long eased glide — the drag always wins
+- ☐ Slow wide wave = serene/huge · fast tight wiggle = small/nervous · bubbles are the water's cape
+
 ---
 
 *The Living Line · [full guide](../The_Living_Line_Guide.md) · CC BY 4.0 © esorhizome OÜ*

@@ -19,7 +19,11 @@ One sheet per lesson, each sized to be **screenshotted onto a phone** or printed
 | [12 · ibisPaint X](12-ibispaint.md) | the phone quick path | Lesson 12 |
 | [13 · Practice Program](13-practice-program.md) | session design, the weekly carousel, the film shelf | Lesson 13 |
 | [14 · Into the Game](14-into-the-game.md) | the engine pipeline — Godot, Unity, Unreal, web | Lesson 14 |
+| [15 · The Grid](15-the-grid.md) | pixel fundamentals — clusters, lines, anti-aliasing, outlines | Lesson 15 |
+| [16 · Colour in Pixels](16-colour-in-pixels.md) | palettes, ramps, hue-shifting, dither, the recolour trick | Lesson 16 |
+| [17 · Pixel Animation](17-pixel-animation.md) | sub-pixel motion, frame budgets, idles, walks, smears, elements | Lesson 17 |
+| [18 · The Pixel Studio](18-pixel-studio.md) | pixel-perfect setup in CSP & ibisPaint, the free editors, Aseprite, engine settings | Lesson 18 |
 
-All fifteen also live concatenated in [one printable file](../The_Living_Line_Cheat_Sheets.md).
+All nineteen also live concatenated in [one printable file](../The_Living_Line_Cheat_Sheets.md).
 
 *CC BY 4.0 © esorhizome OÜ*

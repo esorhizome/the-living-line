@@ -4,7 +4,7 @@
 
 **Standalone lessons for Clip Studio Paint EX (desktop) and ibisPaint X (mobile)**
 
-*August 2026 · Every link in this guide was fetched and checked live on 16 August 2026.*
+*August 2026 · Every link in this guide was fetched and checked live on 16 August 2026; the links in Part VII (The Pixel, Lessons 15–18) on 20 August 2026.*
 
 *Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © esorhizome OÜ — share and adapt freely, with attribution.*
 
@@ -28,19 +28,19 @@ This guide makes you six promises, and it keeps them in every single lesson:
 
 > **C·B·L·S — "Cool Bodies Lag Softly."**
 >
-> **C**ause · **B**ody · **L**oose · **S**ettle. Four letters, and the phrase itself describes the physics: a cool (calm) body moves, its loose parts lag, and everything settles softly. If you remember nothing else while drawing, remember these four letters — they are the order you animate *everything*. (Lesson 2 adds a twelve-beat chant for the twelve classic principles, if you want the full deck in your pocket.)
+> **C**ause · **B**ody · **L**oose · **S**ettle. Four letters, and the phrase itself describes the physics: a cool (calm) body moves, its loose parts lag, and everything settles softly. If you remember nothing else while drawing, remember these four letters — they are the order you animate *everything*. (Lesson 2 adds a twelve-beat chant for the twelve classic principles, if you want the full deck in your pocket; Part VII adds a second four-letter one for pixel art, **P·I·X·L**.)
 
 ## The one idea underneath everything
 
 Personality in animation is not *what* a character does. It is *how the drawings choose to do it.* The same head-turn, drawn with different timing, different curves, and different amounts of lag, can read as shy, smug, alien, dignified, or exhausted — without changing the character design at all.
 
-If you want proof before you invest a single hour: watch Cento Lodigiani's three-minute film *The illusion of life* (link in the bibliography, Lesson 15). It demonstrates every classic animation principle on a plain grey cube — and the cube visibly develops moods. No face. No costume. Just motion choices. That is the power you are here to learn.
+If you want proof before you invest a single hour: watch Cento Lodigiani's three-minute film *The illusion of life* (link in the bibliography, Lesson 19). It demonstrates every classic animation principle on a plain grey cube — and the cube visibly develops moods. No face. No costume. Just motion choices. That is the power you are here to learn.
 
 ## How to use this guide with an easily-derailed memory (a note of respect, not pity)
 
 - **Pick lessons by appetite, not order.** Feeling like fire today? Go straight to Lesson 10. The lesson will hand you every definition it needs.
 - **One drill = one sitting.** Decide which drill you'll do *before* you open the app. Opening the app without a decision is how sessions evaporate.
-- **The cheat-sheets are the guide's short-term memory.** There is one companion checklist per lesson — fifteen in all, from timing to the game-engine pipeline — each sized for a phone screenshot or a printout. Print them or keep them on your phone. They exist so this book doesn't have to be re-read to be used.
+- **The cheat-sheets are the guide's short-term memory.** There is one companion checklist per lesson — nineteen in all, from timing to pixel art — each sized for a phone screenshot or a printout. Print them or keep them on your phone. They exist so this book doesn't have to be re-read to be used.
 - **Repetition is a feature you deserve.** Nothing in this guide assumes you remember the previous page. Learning by loops is still learning — it's even rather fitting for an art form made of loops.
 
 ## Contents
@@ -65,8 +65,13 @@ If you want proof before you invest a single hour: watch Cento Lodigiani's three
   - Lesson 13: The Practice Program (drills, weekly plan, and free films to study frame by frame)
 - **Part VI — Into the Game**
   - Lesson 14: Bringing Your Animation into Games (Godot, Unity, Unreal, and the plain web)
-- **Part VII — The Library**
-  - Lesson 15: Annotated Bibliography (every link verified, free & legal)
+- **Part VII — The Pixel**
+  - Lesson 15: The Grid (every pixel is a decision — resolution, clusters, lines, anti-aliasing, outlines)
+  - Lesson 16: Colour in Pixels (palettes, ramps, hue-shifting, dither, the recolour trick)
+  - Lesson 17: Pixel Animation (sub-pixel motion, frame budgets, idles, walks, smears, the elements in pixels)
+  - Lesson 18: The Pixel Studio (Clip Studio Paint EX, ibisPaint X, the free editors, Aseprite, and the road into the game)
+- **Part VIII — The Library**
+  - Lesson 19: Annotated Bibliography (every link verified, free & legal)
   - Master Glossary (every term in one place, same wording as the lessons)
 
 ---
@@ -156,7 +161,7 @@ Open a canvas, open the **Animation bar** (ibisPaint's frame strip along the bot
 2. Even spacing feels mechanical; bunched-then-wide spacing creates weight and gravity.
 3. A plain ball with good timing and spacing already has a personality — motion acts before design does.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Khan Academy × Pixar, *Pixar in a Box — Animation unit*: https://www.khanacademy.org/computing/pixar/animate
 - Adobe, *12 Principles of Animation*: https://www.adobe.com/creativecloud/animation/discover/principles-of-animation.html
@@ -232,7 +237,7 @@ Cento Lodigiani's short *The illusion of life* performs all twelve principles on
 2. Every principle is secretly a personality dial: the *amount* of squash, anticipation, easing, or exaggeration is a casting decision.
 3. Appeal = order + interest — clarity plus surprise — and villains can have heaps of it.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Wikipedia, *Twelve basic principles of animation*: https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation
 - AlanBeckerTutorials, *12 Principles of Animation* (full series): https://www.youtube.com/watch?v=uDqjIdI4bF4
@@ -304,7 +309,7 @@ Answer those four and the personality choices practically make themselves.
 2. Asymmetry is life: weight on one leg, unequal arms, one working eyebrow. Symmetry is a special effect reserved for the stiff, the formal, and the inhuman.
 3. Give every character one signature move — their own "head swaggle" — and spend it at emotionally right moments.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Winged Canvas, *Shape Language In Character Design* (video): https://www.youtube.com/watch?v=v6n9OYtaWZs
 - Chelsea Gracei, *How to Use SHAPES to Create Character Designs* (video): https://www.youtube.com/watch?v=GbG45s1EZvo
@@ -435,7 +440,7 @@ Modest canvas (phone-friendly), Animation bar open, 8 frames at 8–12 fps. Draw
 2. The Down pose is where weight lives; the Up pose is where spring lives; the Contact pose is where *attitude* lives.
 3. Walks are personality machines — stride, tempo, bob, posture, and symmetry are casting decisions, not physics.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Dermot O'Connor (Angry Animator), *Tutorial #2: Walk Cycle* (via the Internet Archive's Wayback Machine — the original site retired its free articles in a 2026 rebuild): https://web.archive.org/web/20230814111643/https://www.angryanimator.com/word/2010/11/26/tutorial-2-walk-cycle/
 - Animation Mentor blog, *Tutorial: Animating a Basic Human Walk Cycle*: https://www.animationmentor.com/blog/tutorial-animating-human-walk-cycle/
@@ -524,7 +529,7 @@ New Animation project, 24 fps, ~24 frames. Keep the head simple — a Preston-Bl
 2. The nose draws a curve, not a line; bunch drawings at both ends of the turn (slow in, slow out — easing into and out of the move).
 3. Anticipation size + settle softness = the casting sheet: big/loose is comic, small/crisp is dangerous, absent is alien.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - BaM Animation, *Animating a Head Turn: The Important Exercise Everyone Forgets!* (video): https://www.youtube.com/watch?v=3Mik2Gcrq-g
 - AMB Animation Academy, *How to Animate a Head Turn – 2D Animation Tutorial* (video): https://www.youtube.com/watch?v=iDagC_BZrCA — and the software-agnostic companion: https://www.youtube.com/watch?v=IpurGrHTnMY
@@ -541,7 +546,7 @@ New Animation project, 24 fps, ~24 frames. Keep the head simple — a Preston-Bl
 
 ## What this lesson gives you
 
-How to animate things that fly — birds, superheroes, fairies, and stranger beings — by answering one question first: **what is holding this creature up?** Every flight style is an answer to that question, and every answer casts a different character.
+How to animate things that fly — birds, superheroes, fairies, and stranger beings — by answering one question first: **what is holding this creature up?** Every flight style is an answer to that question, and every answer casts a different character. (Swimmers live here too: water is just thick sky, and the section near the end shows how every flight rule translates.)
 
 ## Words used in this lesson (fresh definitions, every time)
 
@@ -600,6 +605,16 @@ No wings, no thrust — so pick the rules and keep them consistent:
 - **The ghost/eldritch drifter:** move the *whole silhouette* at constant speed with no easing at all while the trailing parts undulate — the contradiction (mechanical core + organic streamers) is what makes skin crawl.
 - **The gleeful chaos-flier:** breaks its own arcs, overshoots corners, wobbles on hover — flight as a scribble. Pure scruffy joy (Lesson 8 vocabulary).
 
+## Swimming: flight's denser sibling
+
+Water is thick sky. The first question is the same — *what moves them through it?* — but water adds a second question the air never asks this loudly: **what does the water do back?** Drag on everything, drift after every stroke, and nothing stops on the frame it decides to stop — the glide always gets the last word.
+
+- **The undulator (eels, sea serpents, ribbon-tailed anything):** the body *is* the wave. Draw one S-curve and send it travelling from nose to tail-tip — the curve moves *backwards* along the body while the creature moves *forwards* through the water. This is Lesson 9's overlapping action promoted from hair-and-capes to an entire anatomy: animate the wave, and the swimmer comes free. A loop lives happily in 6–8 drawings; the slower and wider the wave, the calmer and larger the swimmer reads.
+- **The tail-and-keel fish:** body held firm like the superhero's cruise, tail sweeping side to side for power, every fin trailing as drag and follow-through. The pectoral fins are the hands — a hovering fish *sculls*, tiny fan-flicks to stay put, which is the underwater version of the hover rule: never dead-still.
+- **The burst-and-glide darter:** real fish rarely cruise at constant speed. Anticipation coil → two or three explosive frames → a long eased glide, drawings bunching as the water's drag wins. Every dash is a takeoff and landing compressed into a second.
+
+Personality dials underwater: slow wide undulation = serene, huge, wise. Fast tight wiggles = small, busy, nervous. Interrupted glides with wobbling corrections = clumsy, flustered, or shy. And bubbles are the water's cape — secondary motion (rising, wobbling, always *late*) that tells the audience the speed and the mood the body alone can't show.
+
 ## The personality dials
 
 | Choice | Reads as |
@@ -625,6 +640,7 @@ Two-part sitting. (1) **Wing cycle:** 8 drawings on twos (each drawing held 2 fr
 1. **Flap cycle:** 8-drawing bird loop. Downstroke broad and powerful, upstroke folded and quick, tips always late.
 2. **Takeoff triptych:** three versions of the same launch — human effort (big crouch, strain, wobble), superhuman (small crouch, instant, clean), magical (no crouch at all, simply *lifts*). Timing dials only.
 3. **Cape tail:** a 12-frame flight loop where you animate ONLY the cape on a stiff dummy body. The cape must tell us the speed.
+4. **Eel wave:** an 8-drawing loop, side view, of a ribbon-bodied swimmer — animate ONLY one S-curve travelling nose to tail. Then double the wave's speed and halve its width on a copy: the same creature goes from serene to nervous without a single new body part.
 
 ## If you only keep three things
 
@@ -632,10 +648,11 @@ Two-part sitting. (1) **Wing cycle:** 8 drawings on twos (each drawing held 2 fr
 2. Wings are arms: sweep from the shoulder, broad powerful downstroke, folded quick upstroke, feather-tips always last (drag and follow-through).
 3. Hovering means drifting; landings reveal power by *who absorbs the impact* — the knees, or the ground and cape.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Aaron Blaise, *Animation – The Mechanics of Bird Flight* (video): https://www.youtube.com/watch?v=2FR982O37dw
 - Animation Mentor blog, *Tutorial: How to Animate Birds in Flight*: https://www.animationmentor.com/blog/tutorial-how-to-animate-birds-in-flight/
+- Animation Mentor blog, *Tutorial: How to Animate Swimming* (body mechanics, timing, and flow for believable underwater motion): https://www.animationmentor.com/blog/tutorial-how-to-animate-swimming/
 - KevinFarias (Clip Studio TIPS, official), *How to Animate a Cape in the Wind*: https://tips.clip-studio.com/en-us/articles/2160
 - Fleischer Studios, *Superman – The Complete Collection* (1941–43, public domain): https://archive.org/details/superman-the-complete-collection-fleischerfamous-studios — single-short copy of *The Mad Scientist*: https://archive.org/details/superman_the_mad_scientist — background: <https://en.wikipedia.org/wiki/Superman_(1941_film)>
 
@@ -736,7 +753,7 @@ Phone-sized version: 6 frames each, three short clips of a figure turning and st
 2. The alien menu is subtraction: remove anticipation, eases, arcs, overlap, or follow-through — and remove them *everywhere, always*.
 3. Superhuman power is shown by the world's reaction (cracking ground, storming dust, thundering cape) while the body stays composed.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Wikipedia, *Twelve basic principles of animation* (the rule-set you're bending): https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation
 - Fleischer Studios, *Superman – The Complete Collection* (public domain; leaping vs flying, composed power): https://archive.org/details/superman-the-complete-collection-fleischerfamous-studios
@@ -815,7 +832,7 @@ For pure elegance-of-weight, watch **Gertie the Dinosaur** (1914): Winsor McCay 
 2. Speed is not the dialect — *quality of path and stop* is. Fast can be elegant; slow can be scruffy.
 3. The only failure is the accidental version. Choose your column on purpose, dial by dial.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Van Beuren Studios, *The Sunshine Makers* (1935, public domain): https://archive.org/details/The_Sunshine_Makers_1935
 - Winsor McCay, *Gertie the Dinosaur* (1914, public domain): https://archive.org/details/gertiethe-dinosaur-512kb
@@ -916,7 +933,7 @@ There's no single number — there's a casting decision (this is a personality g
 2. Draw loose things as chains offset **1–2 frames per segment**, with a wave travelling root → tip; tips travel farthest and settle last.
 3. Lag amount is both material *and* personality: crisp = controlled, floppy = scruffy-warm, none = cardboard, everywhere-equal = seaweed.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - AlanBeckerTutorials, *5. Follow Through & Overlapping Action – 12 Principles of Animation* (video): https://www.youtube.com/watch?v=4OxphYV8W3E
 - Animation Mentor blog (Drew Adams), *Follow-through and Overlapping Action*: https://www.animationmentor.com/blog/follow-through-and-overlapping-action-the-12-basic-principles-of-animation/
@@ -1029,7 +1046,7 @@ The same drills scale down happily: electricity at 6 frames/6 fps is practically
 2. Physics first, then push timing and spacing until the element has *your* character's temperament.
 3. Elements are actors: they amplify the scene's emotion and obey the same elegant-vs-scruffy dialect as the characters they belong to.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - MsRedNebula / Sarrah Wilkinson (Clip Studio TIPS, official), *3 Magical Animated Effects – Lightning, Fire, and Sparkles*: https://tips.clip-studio.com/en-us/articles/7688
 - KevinFarias (Clip Studio TIPS, official), *How to Animate Fire in Clip Studio Paint*: https://tips.clip-studio.com/en-us/articles/2568 — and *Draw and Animate Wind-Blown Hair*: https://tips.clip-studio.com/en-us/articles/10861
@@ -1106,7 +1123,7 @@ Two bits of vocabulary Clip Studio uses constantly (defined above, used everywhe
 2. Draw with **onion skin** on; inbetween with the **light table**; hold drawings 2 frames to work **on twos**.
 3. Separate animation folders for BODY / LOOSE / FX keep the mantra honest: cause first, body next, loose parts last, settle.
 
-## Sources for this lesson (all official Celsys pages; details in Lesson 15)
+## Sources for this lesson (all official Celsys pages; details in Lesson 19)
 
 - Clip Studio TIPS (official), *Basics of the Animation Feature — "How to animate #1"*: https://tips.clip-studio.com/en-us/articles/2047
 - Clip Studio TIPS (official), *Hand-drawn animation — "How to animate #2"*: https://tips.clip-studio.com/en-us/articles/2048
@@ -1175,7 +1192,7 @@ Phone animation punishes clutter and rewards clarity — which happens to be exa
 2. **Frame Settings** hold fps and Loop / Ping pong / One-shot playback; **onion skin** is adjustable; export via **Save Animated Video**.
 3. Phone scale is a teacher: fewer, stronger drawings; silhouette first; duplicate-and-redraw for consistent volumes.
 
-## Sources for this lesson (all official ibis inc. pages; details in Lesson 15)
+## Sources for this lesson (all official ibis inc. pages; details in Lesson 19)
 
 - Official how-to lecture *171. Create an animation*: https://ibispaint.com/lecture/index.jsp?no=182
 - Official tutorials index (lecture list): https://ibispaint.com/lecture/index.jsp?no=0&lang=en
@@ -1222,6 +1239,8 @@ A structure for actually practising: session design that respects a wandering me
 
 A day skipped is a day skipped — the loop has no score. It's a carousel, not a ladder; climb on wherever it happens to be turning.
 
+**The pixel variant (Part VII):** any day of the loop can be done at 16 or 32 pixels in 4–8 frames — ball, walk, head turn, flag, candle, flap — with Lesson 17's recipes. Same dials, smaller grid; when a drill has gone stale, shrinking it is a new drill.
+
 ## The flour sack (your no-face acting coach)
 
 When a drill feels too easy, do it as a **flour sack** (reminder: the classic practice prop — a half-full sack animated as a character). Sack waves hello; sack walks proudly; sack is defeated by wind; sack takes flight and is terrified. The sack forces every personality choice into timing, spacing, posture, and follow-through — which is precisely this guide's thesis with the corners stitched shut. (The Animator Island exercise list below prescribes the sack repeatedly, including "Flour Sack waving (loop)".)
@@ -1247,7 +1266,7 @@ Animator Island's free article **"51 Great Animation Exercises to Master"** is t
 2. Rotate the weekly carousel (ball → walk → head turn → overlap → element → flight → remix) and always add a personality twist.
 3. Study the free shelf frame by frame — Fleischer *Superman* for capes/effects/flight, *Gertie* for personality-through-weight, *The Sunshine Makers* for elegant-vs-scruffy, Preston Blair's book for everything drawable.
 
-## Sources for this lesson (all free & legal; details in Lesson 15)
+## Sources for this lesson (all free & legal; details in Lesson 19)
 
 - Animator Island (J.K. Riki), *51 Great Animation Exercises to Master*: https://www.animatorisland.com/51-great-animation-exercises-to-master/
 - The four study links in the table above (Internet Archive, all public domain).
@@ -1310,7 +1329,7 @@ Godot thinks in **nodes** (small building blocks — a sprite, a sound, a camera
    - **Image sequence:** drag your PNGs into the frame list (or use the "Add frames from file" button).
    - **Sprite sheet:** click the grid-shaped **"Add frames from a Sprite Sheet"** button, tell it your grid (e.g. 4 across × 2 down), click the cells you want, in order.
 4. Set each animation's **Speed (FPS)** — 12 for drawings made on twos — and toggle **Loop** on for cycles, off for one-shots.
-5. Drawn crisp pixel art? Set the node's **CanvasItem > Texture > Filter** to **Nearest** (hard pixels), or set the project-wide default under Project Settings > Rendering > Textures > Default Texture Filter. High-resolution painterly frames can stay on the default (Linear = soft scaling).
+5. Drawn crisp pixel art? Set the node's **CanvasItem > Texture > Filter** to **Nearest** (hard pixels), or set the project-wide default under Project Settings > Rendering > Textures > Default Texture Filter. High-resolution painterly frames can stay on the default (Linear = soft scaling). (Lesson 18 has the full pixel-perfect checklist for every engine: filtering, integer scaling, pixel snapping.)
 
 *(One deprecation warning, so an old tutorial doesn't eat your afternoon: Godot also has an `AnimatedTexture` class. Its own documentation now says it "does not work properly in current versions and may be removed in the future." Use AnimatedSprite2D or AnimationPlayer instead.)*
 
@@ -1702,7 +1721,7 @@ A last connecting thought, because it is the whole point: **nothing in this less
 2. The names to look for: Godot **AnimatedSprite2D + SpriteFrames** (`play()`, `animation_finished`), Unity **Sprite Editor → Animation Clips → Animator** (`Play()`, triggers, `normalizedTime`), Unreal **Paper 2D sprites → Flipbook** (`SetFlipbook`, `OnFinishedPlaying`), web **CSS `steps()`** or a small **canvas** player.
 3. Play-speed is the timing dial from Lesson 1, now scriptable — and one line of Godot Universal Fade (`await Fade.fade_out().finished`) gives every scene change a settle.
 
-## Sources for this lesson (all official docs or the addon's own repository; details in Lesson 15)
+## Sources for this lesson (all official docs or the addon's own repository; details in Lesson 19)
 
 - Godot (verified on the 4.7 "stable" docs): *2D sprite animation* — https://docs.godotengine.org/en/stable/tutorials/2d/2d_sprite_animation.html — *AnimatedSprite2D* — https://docs.godotengine.org/en/stable/classes/class_animatedsprite2d.html — *SpriteFrames* — https://docs.godotengine.org/en/stable/classes/class_spriteframes.html — *Importing images* — https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_images.html
 - KoBeWi, *Godot-Universal-Fade* (MIT): https://github.com/KoBeWi/Godot-Universal-Fade — Asset Library entry: https://godotengine.org/asset-library/asset/1454
@@ -1712,13 +1731,651 @@ A last connecting thought, because it is the whole point: **nothing in this less
 
 ---
 
-# PART VII — THE LIBRARY
+# PART VII — THE PIXEL
 
 ---
 
-# Lesson 15 — Annotated Bibliography (Every Link Verified, Free & Legal)
+# Lesson 15 — The Grid (Every Pixel Is a Decision)
 
-**How this list was built.** Every URL below was fetched and confirmed live on **16 August 2026**. Only free *and* clearly legal sources made the cut: creators' own channels and websites, companies' own free tutorials and documentation, Wikipedia, Khan Academy, and genuinely public-domain material on the Internet Archive. (A caution from the wild: convincing-looking but *fake* URLs for animation resources circulate widely — including in AI-generated lists. Nothing below is cited from memory; everything was checked.) YouTube and Vimeo videos are free to watch on the creators' own channels; "public domain" entries are free to download, keep, and study without restriction.
+*Standalone lesson. Everything you need is on this page. Every link in Part VII was fetched and checked live on 20 August 2026.*
+
+## What this lesson gives you
+
+The foundations of pixel art as a *drawing* discipline — what a pixel is, why the size of your canvas is a casting decision, how to draw clean lines on a grid, what a "cluster" is and why it is the real brushstroke of the medium, how to anti-alias by hand (and when not to), and the three outline styles — with every one of those choices read the way this whole guide reads things: as a personality decision.
+
+Why pixel art belongs in an animation guide: it is the native dialect of 2D games (the engines of Lesson 14 were built for it), and at low resolution the dials this book cares about — timing, spacing, silhouette, lag — get *sharper*, not softer. The fewer the pixels, the more each one says. Pedro Medeiros, the pixel artist of *Celeste*, puts it plainly in his free beginner series: "Each pixel you place is a big choice you need to make."
+
+## The pocket mnemonic for Part VII
+
+> **P·I·X·L — "Palette small · Integer scale · eXport PNG · Look at 100 %."**
+>
+> Four habits that prevent 90 % of beginner pixel-art damage: use few colours; enlarge only by whole numbers (2×, 3×, 4× — never 107 %); save PNG, never JPG; and judge the drawing at its real size, not zoomed in. Every lesson in this Part repeats these four, on purpose.
+
+## Words used in this lesson (fresh definitions, every time)
+
+- **pixel** — "picture element": the smallest square of colour a screen can show. In pixel art it is the only building block, and every one is placed by hand.
+- **resolution / canvas size** — the width × height of the image in pixels (16×16, 32×32, 64×64…). "Low resolution" simply means few pixels.
+- **sprite** — a 2D image (a character, an object) that a game can place and move on screen; in pixel art, a small drawing on a transparent background.
+- **cluster** — a continuous group of touching pixels of the same colour. Clusters, not single pixels, are the brushstrokes of pixel art.
+- **orphan pixel** — a single pixel touching no other pixel of its colour. It reads as noise unless it is deliberately a particle, a sparkle, or a texture.
+- **jaggies** — unintended bumps and uneven stair-steps along a line or curve, where the steps don't follow a consistent rhythm.
+- **doubles** — a spot where a one-pixel line has two pixels side by side at a corner (a little "L"), so the line looks thicker there.
+- **pixel-perfect line** — a one-pixel-wide line that connects diagonally corner to corner, with no doubles.
+- **anti-aliasing (AA)** — placing in-between colours by hand at the stair-steps of an edge so that, at real size, the edge reads smoother. (Drawing apps also have *automatic* anti-aliasing on their brushes; for pixel art that stays **off** — Lesson 18 shows where.)
+- **banding** — parallel bands of colour hugging a shape's edge like contour lines; the eye sees the borders between bands instead of the form.
+- **pillow shading** — shading every edge darker towards a bright centre with no light direction, so everything looks like a cushion.
+- **outline** — a dark line around a sprite's silhouette. **Selective outlining ("selout")** — an outline that changes colour along its length (lighter where the light hits, darker in shadow) instead of being flat black.
+- **silhouette** — the solid-black outline shape of a drawing. If the idea reads in silhouette, it reads.
+- **nearest neighbour** — the scaling method that copies each pixel as a hard square with no blur. Apps call it "hard edges," "point," "none," or "pixelated."
+- **integer scaling** — enlarging only by whole numbers (2×, 3×, 4×) so every pixel stays a clean square.
+
+## The pixel is the atom
+
+Pixel art is digital art in which the image is built from pixels as the only building block — Wikipedia's definition, and a good one. The *term* was first published in 1982 by Adele Goldberg and Robert Flegal of Xerox PARC, though people had been doing it for at least a decade by then (Richard Shoup's SuperPaint, 1972). What makes it a distinct craft rather than "small drawings" is deliberateness: each pixel is chosen, not generated. Derek Yu (maker of *Spelunky*) opens his free tutorial with the two sentences that matter most: "Pixel art is defined by its constraints," and "A pixel has much more meaning in pixel art than other digital mediums."
+
+Two practical consequences follow immediately:
+
+1. **Automatic tools are switched off.** Soft brushes, blur, gradients, and the automatic anti-aliasing on your pens all place pixels *for* you — and the classic community tutorial by Cure states the community's rule of thumb: "If you can create the image without zooming in, chances are it isn't pixel art." You draw zoomed in, with a hard one-pixel pen, and you *judge* zoomed out.
+2. **Every pixel must earn its place.** Pedro Medeiros's note on very low resolution: only the essentials are shown, and the viewer's imagination fills in the rest. Raymond Schlitter (SLYNYRD) says the same thing as a compliment: "The beauty of pixel art comes from the lack of information."
+
+## Resolution is a casting decision
+
+The first choice you make — how many pixels tall the character is — already tells the audience who they are, because proportion changes with size:
+
+| Sprite height | What fits | Typical proportions | Reads as |
+|---|---|---|---|
+| **8×8** | an icon, a mascot, a tile | 1–1½ heads tall; a face *is* the body | toy, symbol, retro console, cute |
+| **16×16** | the classic RPG hero | 2–3 heads tall; head is a third to half the sprite | friendly, young, comic, approachable |
+| **32×32** | an expressive action sprite | 3–4 heads; visible hands, hair, costume | capable, characterful — the sweet spot for learning animation |
+| **48–64 px and up** | realistic proportions | 4–6 heads; 6–8 for fully realistic figures | serious, adult, elegant, cinematic |
+
+(The head-ratio figures come from PIXNOTE's free character guide; the 6- and 8-head models from SLYNYRD's anatomy post, which adds that "big-headed, or doll-like features tend to read well and capture a lot of expression." SLYNYRD's top-down sprite tutorial notes that at small sizes "the head usually takes up a third to half of the total sprite" so the face can carry expression.)
+
+The personality arithmetic is the same as Lesson 3's shape language: a big head on a short body says *child, pet, comedian*; long proportions say *hero, aristocrat, threat*. A 16-pixel knight is inevitably a little adorable. If you want menace at 16 px, you get it from silhouette and colour, not from anatomy.
+
+**Start small.** Medeiros's beginner guide starts at **16×16** — "a good starting point," he says, for "understanding the interactions of pixels with their neighbors" — then moves to 32×32. Derek Yu: "Making small sprites is about making compromises" — and learning which compromises to make *is* the skill.
+
+**Work at 1×, judge at 100 %.** Keep a second view of the canvas at actual size while you draw zoomed in (Clip Studio: Window > Canvas > New Window; ibisPaint: zoom out, often). Nearly every beginner pixel-art problem is invisible at 800 % and glaring at 100 %.
+
+## Clusters: the brushstroke of pixel art
+
+A **cluster** (reminder: a continuous group of touching pixels of one colour) is how a pixel artist thinks about a drawing — not as lines, but as shapes of colour meeting other shapes. The old Pixelation-forum "Ramblethread" that shaped a generation of pixel artists says it in one line: "The prime job of the pixel artist is to find the ideal shape for every cluster."
+
+Medeiros's second free article teaches a method he calls **cluster sketching**: start with big blobs of colour, refine them in passes, and only *then* worry about edges — no line work first. His rules: aim to *minimise the total number of clusters*, treat diagonal-only touches as weak connections, and eliminate **orphan pixels** (reminder: single pixels touching none of their colour) — one-pixel clusters, he writes, "usually are responsible for the image looking noisy and confusing." His exceptions: texture, anti-aliasing, and strong details (his example is a pair of red eyes). (Lesson 17 will legalise orphans for water droplets and sparks; that's the point — an exception you *chose*.)
+
+Clusters are also **style**. SLYNYRD's Developing Style post: "Lots of simple and repetitive clusters arranged in a controlled manner tends to create a clean or cute look. Widely varied spontaneous clusters creates a sketchy organic look." His Back to Basics post adds the other axis in two captions — "Simple angular clusters makes for a clean sharp look" and "Lots of unique organic shaped clusters makes for a natural look." In this guide's terms: angular = hard, rounded = soft, and your cluster habits become your signature. That is Lesson 8 (elegance vs scruffiness) happening at the scale of a single shape.
+
+## Lines on a grid: jaggies, doubles, and the rhythm rule
+
+A grid only likes two angles. Ramblethread again: "Perfect lines are the 90 and 45 degree ones." A vertical or horizontal line is a run of pixels; a 45° line is steps of one pixel; everything else is a stair-step pattern, and the *rhythm* of the steps is what makes a line look straight or wobbly.
+
+- **A straight line has a constant step length.** A gentle slope might be steps of 3-3-3-3; a steeper one 2-2-2-2. Medeiros's glossary calls these "regular lines," and notes they usually need no anti-aliasing at all.
+- **A curve changes its step length *consistently*.** A good curve runs 1-1-2-3-5 as it flattens, or 4-3-2-1-1 as it tightens. Derek Yu defines jaggies on curves precisely: they appear "when the length of the line segments don't grow or shrink in a consistent manner." A lone 2 among 1s, or a 3 sandwiched between 1s, is a jaggy. The goal, in his words, "is simply to minimize them while expressing what you want to express."
+- **Doubles** (reminder: two pixels side by side at a corner of a one-pixel line) are the other classic fault; they make a line look lumpy. Purpose-built editors have a "pixel-perfect" pencil mode that removes them as you draw (Lesson 18); in Clip Studio and ibisPaint you draw slowly and erase the corner pixel by hand. MortMort's short video on "doubles, jaggies & outline" is the fastest way to train your eye for both.
+- **Lines are expensive.** Medeiros, in his free article on lines: at low resolution a line costs a full pixel of width, so minimise lines and let shadow or colour contrast do their job; and keep the *exterior* outline darkest with lighter internal lines so the interior doesn't fragment.
+- **Design for the grid.** Arne Niklas Jansson's long-running pixel tutorial makes the point with a Dalek: he kept its conical shape but "avoided the longer slopes by breaking them into steps of 90 and 45 degrees" — edges the grid can render crisply, where long shallow slopes always look a little off. Medeiros's low-resolution notes agree — 90° for sharpness, 45° for pointed things like blades.
+
+> **Pin this:** on a grid, a line's *rhythm* is its straightness. Consistent steps = straight. Consistently changing steps = curve. Anything else = jaggy.
+
+## Anti-aliasing by hand (and when not to)
+
+Your app's automatic anti-aliasing is off; now you put the smoothing back *by choice*, one pixel at a time. Medeiros's anti-alias article gives the working rules:
+
+- Anti-alias slopes and curves whose steps are **longer than one pixel** — that is where the staircase shows. Do **not** anti-alias 45° lines, pure horizontals/verticals, or 1×1 staircases: they're already as smooth as the grid can make them, and AA just blurs them.
+- Use one or two in-between tones at a corner, never a gradient. PIXNOTE's guide: "AA is for blending at actual size, not for looking clean when zoomed in."
+- Too much AA is mud. "If the anti-alias is doing more harm than good, just remove it."
+- **Never anti-alias outward past the silhouette of a game sprite.** Derek Yu: "Be careful not to anti-alias the outside of a sprite used for a game" — you don't know what background it will sit on, and a halo of in-between colours will look like a smudge on every background but one. PIXNOTE adds: don't overuse AA on tiny sprites (16 px or smaller); there's barely room for it.
+
+Two faults that masquerade as shading belong here too:
+
+- **Banding** (reminder: parallel bands hugging an edge like contour lines). Jansson: "Banding draws attention to the borders between color fields." Fixes, from Medeiros: compress the bands into a small area, or change the *direction* of the transition so it no longer runs parallel to the edge.
+- **Pillow shading** (reminder: dark edges, bright middle, no light direction). Medeiros's shading article: decide the light source *first*; flat faces get one colour, rounded forms get a ramp, and "Good pixel art eliminates all unnecessary detail." (Lesson 16 is all about those ramps.)
+
+## Outlines: three styles, three personalities
+
+There are exactly three ways to end a sprite, and each casts it differently.
+
+1. **Full dark outline** (black, or a very dark colour) — maximum readability on any background, bold and toy-like; the classic arcade and cartoon look; also the right choice for icons and UI.
+2. **Selective outline ("selout")** — the outline lightens where the light hits and darkens in shadow; PIXNOTE suggests the outline colour be "a darker version of the body's darkest tone" rather than black. Derek Yu's tutorial walks through replacing a black outline with lighter colours on lit areas and darker shadow colours for internal segmentation. Reads as lit, dimensional, naturalistic.
+3. **No outline** — shape meets shape, like a painting. Atmospheric and soft, but it lives or dies on contrast with whatever is behind it. Thomas Feichtmeir (Cyangmou)'s free readability chart is, in his words, "a tut about shape contrasts" — **readability is governed by shape contrast**, not by how many pixels you fuss over. In the notes under his companion *Shapes and Outlines* chart he spells out the mechanism: two close colours can read as one shape, while too much contrast between them reads as two; and in the readability chart's comments he says he prefers one of the lighter outline treatments at small sizes and a fuller one for bigger sprites.
+
+Jansson's warning applies to all three: "Excessive black lining might arise from some sort of compulsion to mark and separate every detail," and it flattens the form. Lighten the upper outline, keep the lower one dark, and the sprite is suddenly lit from above.
+
+## The silhouette test at sixteen pixels
+
+Lesson 3's two-second test works even better in pixels: fill the sprite solid black. Does it still read — the pose, the prop, the species? PIXNOTE's character guide uses exactly this test, and adds the most pixel-specific fact in the whole lesson: **moving an eye by one pixel changes the expression.** SLYNYRD's tiny-sprites post says the same about posture: "Shift one or two pixels and boom, a turn of the head, or change of posture." Keep that in your pocket for Lesson 17 — the head turn of Lesson 5 is, at 16 px, a two-pixel event.
+
+## The personality dial for this lesson
+
+| Choice | Reads as |
+|---|---|
+| Big head, short body (8–16 px) | cute, young, comic, approachable |
+| Long proportions (48 px and up) | serious, elegant, heroic, adult |
+| Angular clusters, 90°/45° edges | hard, mechanical, armoured, menacing |
+| Rounded, stepped clusters | soft, organic, friendly |
+| Full black outline | bold, toy-like, cartoon, arcade |
+| Selective outline | lit, dimensional, naturalistic |
+| No outline | atmospheric, painterly, dreamy |
+| Generous hand AA | smooth, refined, calm ("16-bit lavish") |
+| No AA, crisp steps | punchy, modern-retro, energetic |
+| A few deliberate orphan pixels | scruffy, glittery, nervous — *if chosen* |
+
+## Try it — Clip Studio Paint EX
+
+(The complete pixel-perfect setup, with every menu path, is in Lesson 18; this is the short version.) File > New, unit **px**, **32×32**. Turn on the grid (View > Grid) and set it to one pixel (View > Grid/Ruler bar settings: Gap 1 px, Number of divisions 1). Pick the **Dot pen** — it lives in the Pen tool's **Marker** group — which is fixed at one pixel with anti-aliasing off. In the Fill tool, turn **Anti-aliasing** off and **Area scaling** off. Open a second view at 100 % (Window > Canvas > New Window). Now draw Medeiros's beginner objects: a mug, a skull, a sword, a face — four colours each. When you want to share, *don't* scale in the export dialog: Edit > **Change Image Resolution**, 800 %, Interpolation **Hard edges (nearest neighbor)** — then export PNG.
+
+## Try it — ibisPaint X
+
+New canvas → **Any Size**, 32×32 (this is the setup in ibisPaint's own lecture "53. Display Grid on the Canvas"). View menu → **Grid** on; View menu → **Display when zooming** → **Pixelated**. Brush: **Digital Pen** at **1.0 px**, and in the brush's parameters switch **Antialias** off. Draw the same four objects. Save as **PNG** with Transparent on. Zoom out constantly — the phone screen is your 100 % view.
+
+## Try it — a free pixel editor (optional)
+
+Pixelorama (desktop or in the browser), LibreSprite, or Piskel (browser) give you a one-pixel pencil with a **pixel-perfect** mode, a one-pixel grid, and a palette panel out of the box — nothing to configure. Lesson 18 compares them. For this lesson any of them is fine: open it, set 32×32, draw the four objects.
+
+## Drills (one sitting each)
+
+1. **The four objects.** Mug, skull, sword, face — 16×16, four colours, no outline first, then outlined. Which reads better at 100 %?
+2. **The line gym.** Draw ten curves with the one-pixel pen. Fix every jaggy by making step lengths change consistently; erase every double.
+3. **Outline trio.** One 32×32 character three ways: black outline, selout, no outline. Name the person each one has become.
+4. **The one-pixel expression.** Copy a 16×16 face four times. Move only the eyes or mouth by one pixel each. Write the mood under each.
+
+## If you only keep three things
+
+1. **Pixel art is deliberate:** automatic smoothing off, one-pixel pen on, draw zoomed in, judge at 100 %. Think in **clusters**, hunt **orphan pixels**, keep line rhythms consistent.
+2. **Resolution and outline style are casting decisions** — a 16-px big-head is adorable before it moves; selout lights a character, black outline makes a toy, no outline makes a painting.
+3. **P·I·X·L:** palette small, integer scale, export PNG, look at 100 %.
+
+## Sources for this lesson (all free & legal; details in Lesson 19)
+
+- Pedro Medeiros (Saint11), *Pixel Art Articles* — the free beginner series (guide, clusters, shading, anti-alias & banding): https://saint11.art/pixel_articles — and *Working with lines*: https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-7-e504bfa4ddf2 — *My Thoughts on Very Low Resolution*: https://saint11.art/blog/thoughts_on_low_resolution — glossary: https://saint11.art/blog/glossary/
+- Derek Yu, *Pixel Art Tutorial: Basics*: https://www.derekyu.com/makegames/pixelart.html
+- PIXNOTE, *Getting Started*: https://pixnote.net/en/learn/getting-started/ — *Outlines & Anti-Aliasing*: https://pixnote.net/en/learn/outlines/ — *Characters*: https://pixnote.net/en/learn/character/ — glossary: https://pixnote.net/en/learn/glossary/
+- Raymond Schlitter (SLYNYRD), *Pixelblog 5 – Back to Basics*: https://www.slynyrd.com/blog/2018/5/16/pixelblog-5-back-to-basics — *7 – Developing Style*: https://www.slynyrd.com/blog/2018/7/14/pixelblog-7-developing-style — *17 – Human Anatomy*: https://www.slynyrd.com/blog/2019/5/21/pixelblog-17-human-anatomy — *22 – Top Down Character Sprites*: https://www.slynyrd.com/blog/2019/10/21/pixelblog-22-top-down-character-sprites — *47 – Tiny Pixels*: https://www.slynyrd.com/blog/2023/11/26/pixelblog-47-tiny-pixels
+- Cure, *The Pixel Art Tutorial* (Pixel Joint forum): https://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318 — and the Pixelation forum's *Ramblethread*: https://web.archive.org/web/20250323171825/https://pixelation.org/index.php?topic=8110.0
+- Arne Niklas Jansson, *Pixel Art Tutorial*: https://androidarts.com/pixtut/pixelart.htm
+- Thomas Feichtmeir (Cyangmou), *Readability – Pixel art style possibilities*: https://web.archive.org/web/20220914214941/https://www.deviantart.com/cyangmou/art/Readability-Pixel-art-Style-possibilities-723970229 — *Pixel Art – Shapes and Outlines*: https://web.archive.org/web/20221205174609/https://www.deviantart.com/cyangmou/art/Pixel-Art-Shapes-and-Outlines-722784595 (the original DeviantArt pages have been taken down, so both links are Wayback Machine copies)
+- MortMort, *3 PixelArt Techniques/Common Mistakes (Doubles, Jaggies & Outline)* (video): https://www.youtube.com/watch?v=gW1G_FLsuEs — *Basic Anti-Aliasing for beginners* (video): https://www.youtube.com/watch?v=UN-m3o9V7kk
+- AdamCYounis, *Pixel Art Class – What is Pixel Art?* (video): https://www.youtube.com/watch?v=7BWr2tlK-4c
+- Lospec, *Pixel Art: Where to Start*: https://lospec.com/pixel-art-where-to-start
+- Wikipedia, *Pixel art*: https://en.wikipedia.org/wiki/Pixel_art — *Spatial anti-aliasing*: https://en.wikipedia.org/wiki/Spatial_anti-aliasing — *Sprite (computer graphics)*: https://en.wikipedia.org/wiki/Sprite_(computer_graphics)
+
+---
+# Lesson 16 — Colour in Pixels (Palettes, Ramps, Hue-Shifting, Dither, and the Recolour Trick)
+
+*Standalone lesson. Everything you need is on this page. Every link in Part VII was fetched and checked live on 20 August 2026.*
+
+## What this lesson gives you
+
+How pixel artists choose colours — why a *small* palette produces better art than a big one, how to build a ramp that glows instead of going muddy (hue-shifting), what dithering is for and when it is noise, and the oldest personality trick in video games: the palette swap, where one drawing becomes a different character by changing its colours alone. That last one is this guide's thesis — *same action, different person* — in its purest form.
+
+## The pocket mnemonic for Part VII
+
+> **P·I·X·L — "Palette small · Integer scale · eXport PNG · Look at 100 %."**
+>
+> Few colours; enlarge only by whole numbers (2×, 3×, 4×); save PNG, never JPG; judge at real size. This lesson is the **P**.
+
+## Words used in this lesson (fresh definitions, every time)
+
+- **palette** — the fixed list of colours an image is allowed to use. In pixel art you choose it *before* you draw.
+- **hue / saturation / value** — the three dials of a colour: **hue** is the colour family (red, teal, violet); **saturation** is its intensity (grey → vivid); **value** (also *brightness* or *lightness*) is how light or dark it is. Most apps show them as an HSV or HSB picker.
+- **ramp** — a short row of palette colours from dark to light used to shade one material (skin, metal, cloth).
+- **hue-shifting** — moving the *hue* as a ramp goes from shadow to light (typically cooler in shadow, warmer in light) instead of only changing the value.
+- **dithering** — placing two colours in a pattern (checkerboard, stripes, ordered grids) so that, at real size, the eye blends them into a third colour or a texture.
+- **banding** — parallel bands of colour hugging a shape's edge like contour lines; the eye sees the borders instead of the form.
+- **pillow shading** — shading every edge dark towards a bright middle with no light direction; everything looks like a cushion.
+- **cluster** — a continuous group of touching pixels of the same colour; the brushstroke of pixel art.
+- **indexed colour** — an image format in which each pixel stores a *palette number* rather than a colour. Change the palette and the whole picture recolours at once.
+- **palette swap** — reusing one sprite with a different palette to create a "new" character.
+- **1-bit** — a palette of exactly two colours.
+- **contrast** — the difference in value between neighbouring areas; it is what makes a sprite readable at a glance.
+
+## Why fewer colours make better pixel art
+
+Every serious pixel-art teacher says the same thing in different words. Cure's classic tutorial: "If you can't make a good sprite in 4 colors, using 40 colors isn't going to help." The Pixelation Ramblethread: "If you can't render your item with 4 colors in a gameboy screen, you will not be able to do any better at 800x600 with 256 colors or more." Pedro Medeiros: "My main objective when it comes to colors is to do as much as I can with as little as possible."
+
+Three reasons it's true, not just tradition:
+
+1. **Readability.** A sprite 16 pixels tall is read in a glance. Each extra colour is one more boundary the eye must resolve, and two colours that are close in value merge into one shape anyway — so a small set of clearly separated colours reads faster than a large set of near-neighbours.
+2. **Clusters.** A small palette forces big clusters (reminder: groups of same-colour pixels), and big clusters are what make pixel art look designed rather than noisy.
+3. **Consistency.** Ten sprites drawn from one shared palette belong to one world. Medeiros's post on consistency: pick a limited, reusable palette for the whole project and break it only with intent.
+
+**Numbers to start with.** Medeiros's beginner guide: begin with 4 colours (he recommends the free *ARQ4* palette), then 12 (*AAP-Micro12*), then up to 16 at 48×48. PIXNOTE: 3–5 colours for a first object; for a character, 2–3 colours per body part and 6–12 in total. Derek Yu works from a 32-colour palette and notes that 16 is also common.
+
+**Borrow a palette; don't build one yet.** Lospec's *Where to Start* page recommends exactly this — use a ready-made palette so colour choice doesn't stall you. Lospec's Palette List holds thousands, each downloadable in every app format. Names worth knowing: **ENDESGA 32** (32 colours, the modern indie workhorse), **DawnBringer 32** (32 — the palette Aseprite ships as its default, per its own docs), **PICO-8** (16, the fantasy console's palette), **Sweetie 16** (16, a modern favourite), **AAP-64** (64, when you need range). Where these come from historically: early hardware stored images as **indexed colour** — a few bits per pixel pointing at a palette of 4, 16, or 256 entries — so the limit was the machine's, and artists learned to make it sing.
+
+## Ramps and hue-shifting: the most important trick
+
+A **ramp** (reminder: a row of colours from dark to light for one material) drawn by only darkening the base colour goes grey and muddy. Arne Niklas Jansson's tutorial puts the diagnosis in one sentence: "In nature, the hue of a color often changes as it goes from light to dark, so a black-pink-white ramp can look muddy and artificial." The cure is **hue-shifting** — and PIXNOTE's shading guide calls it, flatly, "the most important technique for attractive pixel art shadows."
+
+The recipe, gathered from three teachers (who agree on the hue and disagree, productively, on the saturation):
+
+- **Shadows: lower value, hue nudged cooler** (towards blue/violet) — PIXNOTE's shading table adds *slightly higher* saturation in the shadow; Medeiros's own example goes the other way, "a little more blue and less saturated (colder)." **Light: hue nudged warmer** (towards yellow/orange) and, in Medeiros's example, "a little more yellow and saturated (warmer)." His general preference: "usually a hot light and cold shadows, but sometimes the opposite can work too."
+- **How much?** Raymond Schlitter builds nine-swatch ramps in HSB with "20 degrees of positive hue shift between each swatch"; in his example the saturation peaks in the middle swatch — "but this is not a hard rule. Generally, darker colors have more saturation" — and the value steps grow smaller near white, so the top of a ramp never burns. His warning is the funniest line in pixel-art pedagogy: "The biggest mistake is combining high saturation and brightness, unless you want to burn some eyeballs."
+- **Avoid 100 % saturation** anywhere. Keep large areas low-saturation and spend saturation on small accents — eyes, a gem, a glow (Medeiros).
+- **Light source first, always.** Schlitter: "A light source should be established at the very start of any illustration," and "Light is one of the biggest factors in determining mood." Decide where the light is and every ramp knows which end is which.
+- **How many tones?** PIXNOTE's working numbers: a 16×16 sprite needs about **two** tones per material; 64×64 and up, **four to five**. More tones than that is banding waiting to happen.
+- **Check the values.** Desaturate the image (Derek Yu's final step) or, in Clip Studio, drop a black layer set to the **Color** blending mode on top (the official Art Rocket pixel tutorial's trick): if the sprite still reads in grey, the values are right; if it vanishes, the hues were doing all the work and will fail at a glance.
+
+> **Pin this:** a ramp is three dials turning at once — value down, hue towards cool, and saturation *decided* (PIXNOTE nudges it up in shadow, Medeiros down; pick one and be consistent) — not one dial turning down.
+
+## Dithering: texture, gradient, and restraint
+
+**Dithering** (reminder: two colours in a pattern that the eye blends) is how a 4-colour Game Boy showed a sunset. The word is older than computers — Wikipedia traces it to WWII bomb computers that ran more accurately while *vibrating*, from the Middle English "didderen," to tremble — and ordered (Bayer) dithering dates from 1973.
+
+Patterns, as PIXNOTE lists them: **checkerboard** (the 50/50 workhorse), **ordered/Bayer** (a tiled threshold grid, with a recognisable cross-hatch look), **stripes**, **crosshatch**, **random**. A gradient is built in density stages: 100 % A → mostly A → checkerboard → mostly B → 100 % B.
+
+The rules, because dithering is the most over-used tool in the medium:
+
+- **Only between colours of similar value.** High-contrast dithering reads as a net thrown over the drawing.
+- **Never dither an outline, and never dither the whole screen.** PIXNOTE: "Don't fill the entire screen with dithering (gets noisy)."
+- **Best uses:** large flat areas that need life, and fighting banding (Derek Yu). Jansson's higher bar: dithering is most effective "when I can make it do double duty — create a gradient AND portray an appropriate texture" (stone, sand, cloth weave).
+- **Judge at 100 %.** A pattern that looks like a nice weave at 800 % may look like static at real size.
+
+Dithering is also a *dialect* — the Lesson 8 dial: heavy, textured dither reads as gritty, retro-PC, scruffy; clean flat clusters read as modern, elegant, calm. Two games with the same palette can feel decades apart on this choice alone.
+
+## The recolour trick: palette swaps as casting
+
+Because so much pixel art is (or behaves like) **indexed colour** (reminder: pixels store palette numbers, not colours), swapping the palette recolours every sprite that uses it — instantly, for free. Games have used this since the beginning: Pac-Man's four ghosts are one sprite in four palettes; Luigi began life as a green Mario; fighting games recolour the second player in a mirror match; and whole casts of ninjas were born from one set of frames because the hardware had no memory for more.
+
+For this guide, the trick matters because it isolates the thesis. Same drawing, same animation — change only the colours:
+
+| Recolour | Reads as |
+|---|---|
+| Warm, mid-saturation, strong value contrast | hero, friendly, energetic |
+| Cool, desaturated, low contrast | tired, cold, ghostly, sick |
+| Dark body, one hot saturated accent | villain, danger, "don't touch" |
+| Pale, low-contrast pastels | gentle, dreamy, fragile, healer |
+| High-contrast black/white with one colour | graphic, modern, stylish |
+| Complementary accent on the eyes or weapon | focus, intent, magic |
+
+PIXNOTE's character guide uses this deliberately for class archetypes — sturdy warrior in metal greys, mage in a trapezoid robe of purple or blue, healer in soft whites. That's Lesson 3 shape language plus colour, at 16 px.
+
+**How to do it in your apps (full setup in Lesson 18):** in Aseprite or Pixelorama, work in **indexed** mode and edit the palette — the sprite follows. In Clip Studio Paint, the **Auto select** tool with Color margin 0, Area scaling off, and anti-aliasing off grabs every pixel of one colour so Edit > Fill can replace it; for a whole-cast recast, Edit > Tonal Correction > Hue/Saturation/Luminosity shifts every colour at once. In ibisPaint X, the **Bucket** with Strength 0 % and Expansion 0 px replaces exactly one colour at a time.
+
+## The personality dial for this lesson
+
+| Choice | Reads as |
+|---|---|
+| 4–8 colours, big clusters | confident, iconic, "designed" |
+| 32+ colours on a tiny sprite | fussy, noisy, hard to read |
+| Hue-shifted ramps | alive, lit, warm-blooded |
+| Straight value ramps | grey, plastic, older-software |
+| High saturation + high value together | loud, eye-searing, cheap |
+| Low-saturation fields + one saturated accent | elegant, focused, expensive |
+| Heavy dithering | gritty, retro, textured, scruffy |
+| No dithering, flat clusters | clean, modern, calm, elegant |
+| 1-bit | graphic, stark, witty (Brandon James Greer's 1-bit video shows how much two colours can do) |
+
+## Try it — Clip Studio Paint EX
+
+Download **ENDESGA 32** (or any Lospec palette) as a **PNG (1×)**, drop it onto a layer in a 64×64 canvas, and register each colour to a **Color Set**: Window > Color Set, **Edit color sets** (the spanner icon) → new set, then eyedrop each swatch and press **Add Color** at the bottom of the palette. Draw one sphere three times with the Dot pen (Pen tool > Marker group): (a) a straight value ramp, (b) a hue-shifted ramp, (c) the light from the other side. Drop a black layer on top set to the **Color** blending mode and look at the values. Scale for sharing with Edit > Change Image Resolution → **Hard edges (nearest neighbor)**, never in the export dialog.
+
+## Try it — ibisPaint X
+
+32×32 canvas, View menu → **Grid** on and **Display when zooming → Pixelated**, **Digital Pen** at 1.0 px with **Antialias** off. Build a four-colour palette by hand from one hue (ibisPaint 14 keeps multiple named colour palettes). Draw a mushroom; shade it with two tones per material. Then do the recolour trick: duplicate the canvas and use the **Bucket** with Strength 0 % and Expansion 0 px to swap each colour — same mushroom, poisonous.
+
+## Try it — a free pixel editor (optional)
+
+In Aseprite or Pixelorama, make the sprite in **Indexed** mode and load a Lospec palette (`.gpl` or the PNG). Draw once; then duplicate the file and *only* edit the palette entries to make the four recasts in the table above. No pixel moves; four characters appear.
+
+## Drills (one sitting each)
+
+1. **Four colours, one hero.** A 16×16 character in ARQ4 (white, two blues, black). If it reads, you have learned clusters and contrast in one sitting.
+2. **Ramp lab.** One sphere, three ramps (straight, hue-shifted, over-shifted). Desaturate all three. Which survives?
+3. **The recolour cast.** One 32×32 sprite, four palettes: hero, villain, ghost, exhausted. Show someone only the colours — can they cast them?
+4. **Dither discipline.** A 32×32 sky: (a) 8 banded colours, (b) 3 colours with checkerboard transitions, (c) 3 colours, hard edges. Judge at 100 %, not 800 %.
+
+## If you only keep three things
+
+1. **Small palettes read faster, cluster better, and unify a project.** Start at 4–12 colours, borrowed from Lospec.
+2. **A ramp turns three dials** — value down, hue towards cool in shadow and warm in light, saturation decided on purpose. Light source first. Check the values in grey.
+3. **Dither only between similar values, never on outlines or everywhere** — and remember the palette swap: colour alone can recast a character without moving a pixel.
+
+## Sources for this lesson (all free & legal; details in Lesson 19)
+
+- Raymond Schlitter (SLYNYRD), *Pixelblog 1 – Color Palettes*: https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes — *6 – Light and Shadow*: https://www.slynyrd.com/blog/2018/6/15/pixelblog-6-light-and-shadow
+- Pedro Medeiros (Saint11), *Basic Color Theory*: https://saint11.art/pixel_art_articles/article6 — *Basic Shading*: https://saint11.art/pixel_art_articles/article4 — *Consistency*: https://saint11.art/blog/consistency/
+- PIXNOTE, *Shading & Lighting*: https://pixnote.net/en/learn/shading/ — *Dithering*: https://pixnote.net/en/learn/dithering/ — *Characters*: https://pixnote.net/en/learn/character/
+- Derek Yu, *Pixel Art Tutorial: Basics* (shading, selout, dithering, the desaturation check): https://www.derekyu.com/makegames/pixelart.html
+- Arne Niklas Jansson, *Pixel Art Tutorial* (ramps, banding, dithering) — https://androidarts.com/pixtut/pixelart.htm — and *PSG Art Tutorial* (hues, skin, saturated gradients): https://androidarts.com/art_tut.htm
+- Cure, *The Pixel Art Tutorial* (Pixel Joint): https://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318 — Pixelation, *Ramblethread*: https://web.archive.org/web/20250323171825/https://pixelation.org/index.php?topic=8110.0
+- Thomas Feichtmeir (Cyangmou), *Readability – Pixel art style possibilities*: https://web.archive.org/web/20220914214941/https://www.deviantart.com/cyangmou/art/Readability-Pixel-art-Style-possibilities-723970229
+- Lospec, *Palette List*: https://lospec.com/palette-list — *ENDESGA 32*: https://lospec.com/palette-list/endesga-32 — *DawnBringer 32*: https://lospec.com/palette-list/dawnbringer-32 — *PICO-8*: https://lospec.com/palette-list/pico-8 — *Sweetie 16*: https://lospec.com/palette-list/sweetie-16 — *AAP-64*: https://lospec.com/palette-list/aap-64 — *ARQ4*: https://lospec.com/palette-list/arq4 — *AAP-Micro12*: https://lospec.com/palette-list/aap-micro12 — *Where to Start*: https://lospec.com/pixel-art-where-to-start — Aseprite docs, *Default palette* (DawnBringer 32): https://www.aseprite.org/docs/default-palette/
+- AdamCYounis, *Pixel Art Class – Palettes & Colour* (video): https://www.youtube.com/watch?v=hkrK65FPmDI — *Lighting & Shading Basics* (video): https://www.youtube.com/watch?v=u7v4uEDwW9o — *Palette Mixing Tutorial* (video): https://www.youtube.com/watch?v=rSy9xef-MXM
+- Brandon James Greer, *1-Bit Pixel Art Techniques* (video): https://www.youtube.com/watch?v=0BZwEoj50uw — and on Celsys' official channel, *3 shading and coloring tips for clean pixel art!*: https://www.youtube.com/watch?v=ihmH5jFn_a4 — *1 must-know tip when coloring pixel art!*: https://www.youtube.com/watch?v=lCv-HAEHMVE
+- Dado Almeida, *How to Draw Pixel Art: A Tutorial* (Celsys' official Art Rocket site — NES palette, the Color-mode value check): https://www.clipstudio.net/how-to-draw/archives/161082
+- Tsugumo, *So You Want To Be A Pixel Artist?* — chapter 6 on dithering and key colours (community mirror of a free 2000s classic): http://www.geocities.ws/skulkraken2002/Tsugumo/chapter6.htm
+- Wikipedia, *Dither*: https://en.wikipedia.org/wiki/Dither — *Ordered dithering*: https://en.wikipedia.org/wiki/Ordered_dithering — *Indexed color*: https://en.wikipedia.org/wiki/Indexed_color — Giant Bomb, *Palette Swap* (definition; community wiki): https://www.giantbomb.com/wiki/Concepts/Palette_Swap — TV Tropes, *Palette Swap* (the game-history examples; community wiki): https://tvtropes.org/pmwiki/pmwiki.php/Main/PaletteSwap
+
+---
+# Lesson 17 — Pixel Animation (Moving Less Than a Pixel, and Why Fewer Frames Can Say More)
+
+*Standalone lesson. Everything you need is on this page. Every link in Part VII was fetched and checked live on 20 August 2026.*
+
+## What this lesson gives you
+
+The whole of this guide, translated into a grid. When the smallest possible move is a full pixel and a character is sixteen of them tall, **spacing** becomes a puzzle, **timing** becomes a matter of milliseconds, and the answer to "how many drawings?" is often "fewer than you think." You'll get: the spacing problem and its solutions (including *sub-pixel animation*, the medium's signature trick), honest frame budgets, the pixel idle, the pixel walk and run, jumps and attacks with smears and holds, hair and cloth and the elements at one pixel per frame — and every one of them as a personality decision, because that is the only reason to animate anything.
+
+## The two mantras
+
+> **Cause first → body next → loose parts last → settle.** (C·B·L·S — "Cool Bodies Lag Softly.") The order you animate everything, in pixels as on paper.
+>
+> **P·I·X·L — "Palette small · Integer scale · eXport PNG · Look at 100 %."** The four pixel-art habits. For animation the **L** matters most: *always judge the loop at real size and real speed.*
+
+## Words used in this lesson (fresh definitions, every time)
+
+- **frame** — one single image in an animation; **fps (frames per second)** — how many frames are shown each second.
+- **milliseconds per frame (ms)** — many pixel-art tools time each frame in milliseconds instead of fps. Conversions you'll use constantly: **100 ms = 10 fps · 125 ms = 8 fps · 83 ms ≈ 12 fps · 50 ms = 20 fps.** One frame can have its own duration, which is how you make a *hold*.
+- **timing** — how many frames (or milliseconds) an action takes; the clock. **spacing** — how far the drawing moves between one frame and the next; the handwriting.
+- **hold** — a drawing shown longer than its neighbours. In pixel art, holds do much of the acting.
+- **key drawing** — one of the main storytelling drawings; **inbetween** — a drawing that fills the gap between two keys.
+- **cycle / loop** — a set of drawings that repeats seamlessly; the last flows back into the first.
+- **sub-pixel animation** — faking movement smaller than one pixel by changing the *colours* at an edge instead of moving whole pixels.
+- **smear** — a deliberately stretched or multiplied drawing shown for a frame or two to sell extreme speed.
+- **squash and stretch** — a form flattening under force and lengthening with speed, its volume staying constant (in pixels: roughly the same *number* of pixels).
+- **anticipation** — a small preparatory move, often in the opposite direction, before the main action.
+- **follow-through** — loose parts (hair, cloth, tails) keep moving after the body stops; **overlapping action** — different parts start and stop at slightly different times; **overshoot and settle** — going slightly past the target, then easing back.
+- **onion skin** — a ghost view of the frames before and after the one you're drawing.
+- **Contact / Down / Passing / Up** — the four cornerstone drawings of a walk: feet widest apart and both touching; weight dropping onto the front leg; the free leg passing the planted one; the body at its highest as the toes push off.
+- **sprite sheet** — many frames packed into one image in a grid, which a game engine slices back apart.
+
+## The spacing problem: one pixel is a big step
+
+**Spacing** (reminder: the distance moved per frame) is the dial that creates weight and ease in Lesson 1's bouncing ball. In pixel art it comes with a floor: nothing can move less than one whole pixel. On a character sixteen pixels tall, that floor is a sixteenth of the entire body per frame. Tsugumo's old sprite-animation chapter makes the point with a 20-pixel-wide fighter — a one-pixel shift is a twentieth of him, a lurch, not a breath.
+
+So the slow, subtle motions that make a character feel *alive* — breathing, swaying, drifting — can't be made by sliding pixels smoothly. Four solutions, and real pixel animation uses all of them:
+
+1. **Move the timing instead of the drawing.** Hold frames longer. Two positions one pixel apart, held 300 ms each, read as calm; the same two positions at 80 ms read as a twitch.
+2. **Move part of the shape, not the whole.** A breathing chest is the top edge of the torso rising one pixel while the feet stay planted; SLYNYRD's fighting idle moves the head and torso one pixel, the shoulders, elbows and outer fist two, the inner fist four — a chain of different amounts, which is Lesson 9's overlapping action drawn in integers.
+3. **Change colours instead of positions — sub-pixel animation** (next section).
+4. **Embrace the bounce.** A cheerful 2-pixel bob is not a failure of subtlety; it's a casting choice (goofy, eager, cartoon). PIXNOTE's rule for squash and stretch in pixels: "Even 1 pixel of change is effective."
+
+## Sub-pixel animation: moving less than a pixel
+
+Picture the right-hand edge of a red shape against a dark background. To slide that edge right by *half* a pixel, you don't move anything: you recolour the first background pixel beyond the edge to a colour halfway between red and the background. Next frame, make it fully red — the edge has now moved a whole pixel, in two soft steps instead of one hard one. Move the trailing edge the same way (half-tone, then background) and the whole shape appears to glide. PIXNOTE's glossary defines the technique exactly that way: "simulating movement smaller than one pixel through color changes."
+
+Where it shines: breathing, idle sway, a slowly turning planet, drifting clouds, hair lifting in a draught, a pupil sliding across an eye — anything slow and small. Where it fails: fast motion, where the half-tones just look like blur. The cost: extra palette colours (the in-betweens), so it pairs naturally with the ramps of Lesson 16 — the half-tone is usually a colour you already own. Pedro Medeiros has a free animated board on it in his tutorial set, and AdamCYounis's *Pixel Art Class – Sub-Pixel Animation* demonstrates it step by step.
+
+**Personality:** sub-pixel motion reads as *calm, alive, composed, expensive* — Lesson 8's elegance. Whole-pixel bobbing reads as *energetic, comic, retro*. Same character; choose the dialect.
+
+## Frame budgets: fewer can say more
+
+The guide's hand-drawn lessons live on twos at 12 drawings a second. Pixel animation often runs on *far* fewer drawings, and not only to save work — Raymond Schlitter's Intro to Animation says why: "Too many frames can leach the energy from your motion." His timing equivalence is worth memorising: an 8-frame cycle at 80 ms per frame and a 4-frame cycle at 160 ms per frame take **the same time to loop** — the 8-frame version is smoother, the 4-frame version punchier. Same clock, different handwriting (Lesson 1 again).
+
+| Frames in the cycle | Typical use | How it feels |
+|---|---|---|
+| **2** | blink, torch flicker, a tiny idle | twitchy, mechanical, charmingly retro |
+| **3** | the *Mega Man* run — two stride poses and a pass, played A-B-C-B | kinetic; Schlitter: "With just 3-frames it captures more kinetic energy" |
+| **4** | the classic NES walk: contact–pass–contact–pass | brisk, economical, instantly readable |
+| **6** | walks and runs with a Down pose | Schlitter's "nice middle ground" between economy and fluidity |
+| **8** | fluid walks and runs; an 8-frame bird flight | smooth, weighty, elegant |
+| **12–16** | luxurious cinematic cycles | lavish — and at risk of going floaty |
+
+Speeds to start from (PIXNOTE's working numbers): **8–12 fps** as the standard feel for pixel animation; **4–6 fps** for idles and ambient effects; **15–24 fps** for attacks and anything that needs snap. Schlitter's own loops: walks around **120 ms** per frame, runs around **60 ms**, idles at **100 ms** with faster frames where gravity takes over.
+
+And the rule that pixel animators repeat like a prayer, because a loop shows every frame hundreds of times: hold the extremes longer than the inbetweens (Schlitter's top-down characters; Tsugumo held breath-peaks about twice as long as the transitions). Schlitter: "A single misplaced pixel can create an eyesore."
+
+## The pixel idle: the personality machine of games
+
+An **idle** is what a game character does while the player does nothing — and Wikipedia's history of the idle animation notes it exists precisely "to give personality towards games and their characters," the one moment they act on their own. Sonic's impatient foot-tap is the famous example. Schlitter is blunter: "A character's idle loop is one of the most effective means of displaying personality, and bringing the sprite to life."
+
+The classic recipe, from Tsugumo's chapter on breathing and Sandro Maglione's free character-animation guide:
+
+- **4 frames** (2 is possible, 6–8 for a fighter). The body rises and falls **one pixel**; the chest edge lifts; the head follows a frame later; hair or a scarf follows a frame after that. Maglione's finding: "Leaving 1 frame delay between the body and hair movement makes it look like the hairs are floating, following the movement of the body." That is *cause → body → loose parts → settle*, in four frames.
+- **Hold the top and bottom.** Frames at the peaks last roughly twice as long as the transitions.
+- **Build by shifting, not redrawing.** Duplicate the frame, nudge the cluster, fix the seams. Volumes stay consistent for free.
+- **Timing with gravity:** Schlitter's 8-frame fighting idle plays frames 1–4 at 100 ms and frames 5–8 at 50 ms — slow up, quick down — so the bounce has weight.
+
+And the casting table, which is the whole reason to bother. Tsugumo compared two Capcom fighters: one bounces restlessly on his toes, the other stands almost motionless — "The animation you give your character should be based on their personality and fighting style." His closing advice: "Less is more."
+
+| Idle recipe | Reads as |
+|---|---|
+| sub-pixel breath, 4 frames at 5 fps, hair drifting a frame late | calm, composed, confident, alive |
+| 2-pixel bob, 4 frames at 10 fps, one asymmetric twitch | nervous, eager, comic |
+| slow 1-pixel sink with a long hold at the bottom, weary rise | heavy, tired, carrying the world |
+| still body, only the eyes move (one pixel, then a blink) | watchful, menacing, alien |
+| bounce + a head swaggle at the top (two pixels, two frames) | cocky — Lesson 3's Milt Kahl head swaggle, in pixels |
+| perfectly symmetrical, perfectly even timing | robot, statue, uncanny |
+
+## The pixel walk: Contact → Down → Passing → Up, in four, six, or eight
+
+The mechanics are Lesson 4's, unchanged — re-defined here so this page stands alone. **Contact:** both feet touch, legs and arms at their widest. **Down:** weight lands on the bent front leg; lowest point. **Passing:** the free leg passes the planted one; the body rises. **Up:** highest point, toes pushing off. Then the other side. PIXNOTE's walk page: "You can loop with 4 frames per step — 8 for both feet."
+
+How the budget maps onto the cornerstones:
+
+- **4 frames:** Contact – Passing – Contact – Passing. The body sits one pixel lower on the Contact frames (legs spread = shorter) and one higher on Passing. Jason Perry's classic walk-cycle article even shows a **3-frame** version (step–idle–step) and insists that "at no point do both of your legs line up on the ground next to each other" — and that the planted foot's backward drag "really 'sells' the illusion." His ceiling: "you will never really need more than eight frames for a walk cycle like this."
+- **6 frames:** add the Down. Schlitter: the six-frame version "strikes a nice middle ground."
+- **8 frames:** all four cornerstones, twice. Schlitter's Human Walk Cycle tutorial — built by reducing 60-fps reference by hand to eight drawings — adds the one detail nobody guesses: the head's path should trace a **triangle wave, not a sine wave** — sharp-ish turns at top and bottom, which read as "an appealing sense of energy that feels organic." Even bobs look robotic; his top-down runs use a bounce of down 1, down 1, up 2 for the same reason.
+
+Build order (Schlitter's Motion Cycles): "Animate the legs first, then the arms, head, and overall body movement" — one body part at a time across *all* frames, never one frame at a time. This guide adds the obvious last step: loose parts (hair, cloth) after the body. That is the mantra with the body split into its own little sequence. Check with onion skin that the planted foot never slides — in a loop, one slipping pixel is visible forever.
+
+**Personality dials in a pixel walk** are Lesson 4's, now measured in pixels:
+
+| Dial | Down | Up |
+|---|---|---|
+| Stride (Contact width) | timid, sneaking | brash, striding |
+| Bob height | poised, icy (1 px, or sub-pixel) | goofy, jaunty (2–3 px on a 32-px sprite) |
+| Arm swing | Schlitter: tight swings read "stiff, business like" | full swings past the hips read as "peppy elegance" |
+| Tempo (ms per frame) | weary, grand (150 ms+) | eager, nervous (60–80 ms) |
+| Torso lean | upright, formal | forward = urgent, hunting |
+| Symmetry | (asymmetric) alive, human | (mirror-flipped) mechanical — fine for robots, wrong for drunks |
+
+Schlitter's observation list is the best drill brief in the medium: "a carefree child marches with pride, the elderly shuffle slowly with hunched backs, the drunk sway and stumble."
+
+## Runs, jumps, attacks — and the smear
+
+**Run.** Not a fast walk (Lesson 4's box): there is an airborne moment. Lean the torso forward, lengthen the stride, enlarge the bounce, and drop to fewer, punchier frames — Schlitter's side-view run plays at about 60 ms per frame against the walk's 120; his 3-frame *Mega Man* analysis shows how two extended stride poses, one pass, and a vertical bounce can carry more energy than eight careful drawings. Top-down: 8 directions need only **5 unique orientations** (flip the rest).
+
+**Jump.** PIXNOTE's jump page is the cleanest primer: crouch for 1–2 frames (deeper crouch = stronger jump); stretch tall on take-off (the fastest moment); a parabolic arc with *more* frames near the slow apex; squash on landing; 12–18 frames in all. Their motto: "Contrast is everything. Make the crouch and landing slow with more frames, and the take-off and fall fast with fewer." Then the honest game-design twist, from Schlitter's run-and-gun post: a *player-controlled* jump often has **no anticipation crouch at all** — a single take-off frame, then an up pose and a down pose — because a wind-up between the button and the jump feels like input lag. Anticipation is a dial with a price — "gameplay is king," as Schlitter puts it in his Melee Attacks post — and a character who *does* wind up reads as theatrical, heavy, or cinematic.
+
+**Attack.** From Schlitter's melee posts: start from a stance that suits the weapon's weight; a load/anticipation frame telegraphs power; at peak velocity, one **smear** frame (reminder: a stretched or multiplied drawing) painted in simple colours; the **impact frame is held slightly longer** — "The hit frame is slightly longer to enhance the sense of impact"; follow-through extends the limb 1–2 pixels past the pivot; recovery overshoots and snaps back a pixel into idle. Jabs get almost no delay; kicks get two or more prep frames. For numbers, his top-down sword attack (Pixelblog 58) times its six frames **100 / 50 / 50 / 50 / 100 / 50 ms** — read that as a slower load, a fast swing, a longer hit, a quick recovery (this guide's reading of his figures). That is Lesson 1's timing-as-personality, in a row of numbers.
+
+**Squash and stretch in pixels.** Medeiros's bouncing-ball exercise (32×32, drawn straight ahead) holds the impact frame for 300 ms and squashes the ball wide while keeping its pixel count: "Keeping the volume is very important so your object doesn't look like it got smaller or bigger."
+
+## Hair, cloth, and the elements — one pixel per frame
+
+**Hair and cloth (the loose parts).** The chain rule of Lesson 9, in integers: the base moves least and first, the tip moves most and last; send an S-curve from base to tip and move its crest one pixel towards the tip each frame (PIXNOTE's waving guide: 8–12 frames per wave; hair and tails "keep going a beat later"). Schlitter's wind-effects post gives exact numbers for a flag: waves start small at the pole and *expand* as they travel, spaced about 12 px apart, moving 2 px per frame over a 6-frame loop. And a liberating trick from his top-down sprites: hair doesn't have to move every frame — his shifts on frames 2 and 4 only. Schlitter: "The waves start small and expand as they flow out of the form."
+
+**Fire.** Lesson 10's flame lifecycle — Ascent → Swelling → Division → Reduction — is the map; in pixels it's drawn in a three- or four-colour ramp (dark red, orange, yellow, a touch of white at the core), as clusters with no outline, with the base stable and the top chaotic. Tongues split off into 1–2-pixel embers that rise and vanish — the one place orphan pixels are fully legal. Vary each pass so the loop doesn't show its seam. Medeiros's free boards include fire, smoke, and explosions; Jason Tomlee's Pixilart tutorial walks through a simple flame's shading and animation.
+
+**Water.** Schlitter's Water in Motion: build waves from chains of ovals (round = deep, wide = shallow), remember that "the crests of surface waves are actually slightly steeper than the inverse dips," make a waterfall from a bright mouth, darkening bands, and a synchronised splash base, and only hunt for the loop point *after* the motion looks right. Droplets are single pixels on arcs — Lesson 10's "tiny thrown balls," each on its own schedule.
+
+**Electricity.** Lesson 10's rule (redraw the bolt from scratch every frame, ignore the onion skin) is even easier in pixels: two or three colours (white core, bright blue, dark blue), one-pixel branches built from 45° and 90° segments, two or three frames, then gone — with one frame of full-white flash if you want a thunderclap. Medeiros's board set includes an electricity sheet.
+
+**Wind.** Invisible, so animate its victims (Lesson 10): Schlitter's swirl particles as the general cue ("Swirls are a good general solution to illustrate wind in just about any environment"), 2×2 leaves falling at one pixel per frame with the top half cut on alternate frames to flutter, foliage nudged one pixel up-right, down, left in sequence at about 0.2 s per frame.
+
+## C·B·L·S in sixteen pixels: the head turn, worked
+
+Lesson 5's head turn, on a 32×32 sprite, as one standalone recipe: **Cause** — the eyes move first: two pixels slide one step towards the new direction (1 frame, 100 ms). **Body** — a one-pixel anticipation *away* from the turn (1 frame), then the turn itself in two or three drawings built from the same clusters — profile, three-quarter, front — at 80 ms each. **Loose parts** — the hair or hood lands one frame after the face; overshoot the head one pixel past its final position. **Settle** — ease back into place and hold the end pose for 300–400 ms. Six to eight frames. Re-time it and the person changes: drop the anticipation and the hold and it is a startled glance; stretch the hold and slow the eyes and it is suspicion.
+
+## The personality dial for this lesson
+
+| Choice | Reads as |
+|---|---|
+| 2–3-frame cycles, whole-pixel steps | retro, punchy, comic, nervous |
+| 8-frame cycles with sub-pixel eases | smooth, elegant, calm, "16-bit lavish" |
+| Long holds on the extremes | weight, confidence, drama |
+| Even timing, no holds | mechanical, floaty, cheap |
+| Big bob (2–3 px on 32 px) | bouncy, goofy, joyful |
+| Tiny or sub-pixel bob | poised, stealthy, cold |
+| Hair/cloth one frame late | alive, soft, warm |
+| Everything moving on the same frame | cardboard cut-out |
+| Anticipation omitted | responsive (games) — or abrupt, alien |
+| Smear + held hit frame | speed, power, comedy |
+| Triangle-wave bob | organic energy |
+| Perfect sine / perfect mirror | robot, statue |
+
+## Try it — Clip Studio Paint EX
+
+File > New → Project **Animation**, canvas **32×32 px**, **10 fps** (100 ms a frame — the pixel tools' native rhythm); in the same dialog set the timeline's **Image interpolation** to **Hard edges (nearest neighbor)**. Draw with the **Dot pen** (Pen tool > Marker group). Four cels in one animation folder: a breathing idle — torso edge up one pixel on cel 2, back on cel 4; put the hair on a second animation folder one frame late. Use cel assignment to *hold* the peaks for two frames each. Loop it. Then make the sub-pixel version: instead of moving the torso edge, recolour its top row to a half-tone on cel 2. Export: File > Export animation > **Animated GIF** (turn **Dithering** off — it adds noise to pixel art) or **Image sequence** (PNG) for an engine, *at 1×*; enlarge beforehand with Edit > Change Image Resolution → Hard edges if it's for sharing.
+
+## Try it — ibisPaint X
+
+New canvas → **Animation**, 32×32, 8 fps; View menu → **Grid** and **Display when zooming → Pixelated**; **Digital Pen** 1.0 px with **Antialias** off. Four frames: duplicate-and-nudge rather than redraw — body up one pixel on frame 2, hair up on frame 3, everything home by 4. Use per-frame **Duration** to hold frames 1 and 3 longer. Play on **Loop**, then watch it at thumbnail size: the phone screen is your 100 % check.
+
+## Try it — a free pixel editor (optional)
+
+Aseprite, Pixelorama, or LibreSprite time frames in **milliseconds**, tag frame ranges by name (`idle`, `walk`), and export a sprite sheet directly — the most comfortable home for this lesson's drills. Medeiros's free article *A Basic Aseprite Animation* is the short on-ramp (new frame, frame duration, the preview window, export).
+
+## Drills (one sitting each)
+
+1. **Two idles, one sprite.** A 16×16 character breathing in 4 frames — once by moving whole pixels, once by sub-pixel recolouring. Play them side by side at 100 %.
+2. **The four-frame walk.** Contact–Passing–Contact–Passing. Loop it; fix the sliding foot. Then recast it twice by changing *only* bob height and arm swing.
+3. **Three-frame run.** A-B-C-B, 60 ms a frame. Make it lean.
+4. **One slash.** Six frames, 100/50/50/50/100/50 ms, one smear, one held hit.
+5. **A candle and a bolt.** Six-frame candle loop, three colours, no outline; then a three-frame bolt redrawn from scratch each frame.
+
+## If you only keep three things
+
+1. **One pixel is a big step**, so pixel animation acts with *timing* (holds, ms per frame), *partial* moves, and *sub-pixel* colour shifts more than with distance.
+2. **Fewer frames, stronger poses:** 4–8-frame cycles at 8–12 fps, extremes held longer than inbetweens, loose parts one frame late — C·B·L·S in integers.
+3. **Idles and walks are personality machines:** bob height, hold length, arm swing, symmetry, and whether you allow an anticipation are casting decisions, in pixels as on paper.
+
+## Sources for this lesson (all free & legal; details in Lesson 19)
+
+- Pedro Medeiros (Saint11), *Pixel Art Tutorials* (the free animated boards: walk, run, idle, jump, sub-pixel, squash, easing, motion blur, fabric, fire, water, smoke, explosion, electric, wind): https://saint11.art/blog/pixel-art-tutorials/ — *A Basic Aseprite Animation*: https://saint11.art/pixel_art_articles/article3 — *Saving and Exporting Pixel Art*: https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-8-eb218a4637dd
+- Raymond Schlitter (SLYNYRD), *Pixelblog 8 – Intro to Animation*: https://www.slynyrd.com/blog/2018/8/19/pixelblog-8-intro-to-animation — *9 – Melee Attacks*: https://www.slynyrd.com/blog/2018/9/8/pixelblog-9-melee-attacks — *10 – Water in Motion*: https://www.slynyrd.com/blog/2018/10/12/pixelblog-10-water-in-motion — *25 – Motion Cycles*: https://www.slynyrd.com/blog/2020/1/23/pixelblog-25-motion-cycles — *33 – Wind Effects*: https://www.slynyrd.com/blog/2021/7/16/pixelblog-33-wind-effects — *50 – Human Walk Cycle*: https://www.slynyrd.com/blog/2024/5/24/pixelblog-50-human-walk-cycle — *52 – Idle Fighting Stance*: https://www.slynyrd.com/blog/2024/9/26/pixelblog-52-idle-fighting-stance — *53 – Punches and Kicks*: https://www.slynyrd.com/blog/2024/11/25/pixelblog-53-punches-and-kicks — *55 – Top Down Character Animation*: https://www.slynyrd.com/blog/2025/3/24/pixelblog-55-top-down-character-animation — *58 – Top Down Character Animation Part 3*: https://www.slynyrd.com/blog/2025/10/2/pixelblog-58-top-down-character-animation-part-3 — *60 – Side View Run 'N Gun*: https://www.slynyrd.com/blog/2026/1/26/side-view-run-n-gun
+- PIXNOTE, *How to Animate Pixel Art*: https://pixnote.net/en/learn/animation/ — *Walk cycle*: https://pixnote.net/en/learn/animate-walk-cycle/ — *Jump*: https://pixnote.net/en/learn/animate-jump/ — *Bouncing ball*: https://pixnote.net/en/learn/animate-bouncing-ball/ — *Waving (flags, hair, tails)*: https://pixnote.net/en/learn/animate-waving/
+- Tsugumo, *So You Want To Be A Pixel Artist?* — chapter 10, *Breathing Life Into Your Sprites* (community mirror of a free 2000s classic): http://www.geocities.ws/skulkraken2002/Tsugumo/chapter10.htm — index: https://mirror.motherhamster.org/tsugumo/default.html
+- Jason Perry, *Walk Cycles, Part 1*: http://finalbossblues.com/walk-cycles-p1/
+- Sandro Maglione, *Pixel art Character Animations guide*: https://www.sandromaglione.com/articles/pixel-art-character-animations-guide
+- AdamCYounis, *Pixel Art Class – Sub-Pixel Animation* (video): https://www.youtube.com/watch?v=cs1Gp61yafQ — *Simple Character Idle Animation*: https://www.youtube.com/watch?v=vs-ierVdE7I — *Run Animation Tutorial [Part 1]*: https://www.youtube.com/watch?v=LPBvrdJ_1a8 — *Making Pixel Art Worth Animating*: https://www.youtube.com/watch?v=52A4KgX-wNI — *Attack Animations*: https://www.youtube.com/watch?v=nJbzBSVy1u0
+- Brandon James Greer, *Pixel Art Character Animation | Tips, Tricks, and Workflow* (video): https://www.youtube.com/watch?v=jdnCOlATb-c
+- Saultoons, *Easy Pixel Art Walk Cycle Tutorial* (video): https://www.youtube.com/watch?v=7T6yOk5n-zk — Dual Core Studio, *Walk Cycle (6 & 8 frames)*: https://www.youtube.com/watch?v=5QTCwiJUmmo — *2 & 4 Frames Walk/Run Cycle Animations*: https://www.youtube.com/watch?v=9lemPuqxIug — Pixel Overload, *The secrets to good Pixel Art animation!*: https://www.youtube.com/watch?v=J1sFBDQt8J0
+- Jason Tomlee (Pixilart), *Fire: Shading and Animation*: https://www.pixilart.com/tutorial/fire-shading-and-animation-115 — *Animation: Squash & Stretch*: https://www.pixilart.com/tutorial/animation-squash-stretch-61 — *Animation – Anticipation*: https://www.pixilart.com/tutorial/animation-anticipation-62 — *SmokePoofs – Movement*: https://www.pixilart.com/tutorial/smokepoofs-movement-51
+- Lospec, walk-cycle tutorials tag: https://lospec.com/pixel-art-tutorials/tags/walkcycle — animation tag: https://lospec.com/pixel-art-tutorials/tags/animation
+- Wikipedia, *Idle animation*: https://en.wikipedia.org/wiki/Idle_animation
+
+---
+# Lesson 18 — The Pixel Studio (Clip Studio Paint EX, ibisPaint X, the Free Editors, Aseprite — and the Road into the Game)
+
+*Standalone lesson. Everything you need is on this page. Each tool's section is also self-contained — jump straight to the one you use. Every setting below was checked against the tools' official documentation on 20 August 2026; Clip Studio menu names are the Ver. 5 names, with the older names in brackets where they changed.*
+
+## What this lesson gives you
+
+The exact setup that keeps pixels square in the two apps you already own, an honest tour of the purpose-built pixel editors (the free ones and the paid standard), and the export and engine settings that stop your sprites from turning to soup on the way into a game. No drawing theory here — that's Lessons 15–17. This is the workbench.
+
+## The pocket mnemonic for Part VII
+
+> **P·I·X·L — "Palette small · Integer scale · eXport PNG · Look at 100 %."**
+>
+> This lesson is the **I** and the **X**: every scale step a whole number with **nearest-neighbour** sampling, and every export a **PNG** (or GIF/APNG/WebP for loops) — never JPG. Cure's tutorial, in the community's tone of voice: "Never, ever save as JPG. Instead, save as PNG or GIF." Pedro Medeiros on scaling: "Always resize your art using whole numbers (200%, 300% and so on) and never fractions (130%, 250%)" — and the reward: "You can scale up pixel art forever without losing quality."
+
+## Words used in this lesson (fresh definitions, every time)
+
+- **anti-aliasing (as a tool setting)** — the automatic edge-softening your app applies to brushes, fills, selections, and text. For pixel art it is switched **off** everywhere; you add any smoothing by hand (Lesson 15).
+- **nearest neighbour** — scaling that copies each source pixel as a hard square, no blending. Apps call it *hard edges*, *point*, *none*, *pixelated*, or *nearest*. **Bilinear / bicubic / "smooth"** are the blurring alternatives you must avoid.
+- **integer scaling** — enlarging only by whole numbers (2×, 3×, 8×) so each source pixel becomes an exact square of screen pixels.
+- **indexed colour** — an image whose pixels store palette numbers, not colours; edit the palette and the image recolours.
+- **timeline / frame / cel** — the panel where drawings are placed in time; one slot of time; one drawing in the stack (Clip Studio's word).
+- **onion skin** — a ghost view of neighbouring frames.
+- **frame tag** — in Aseprite and Pixelorama, a named range of frames (`idle`, `walk`) that an engine can treat as one animation.
+- **pixel-perfect mode** — a pencil mode in purpose-built editors that removes the corner "doubles" from one-pixel lines as you draw.
+- **sprite sheet** — many frames packed into one image in a grid; **image sequence** — one numbered PNG per frame. Engines accept either.
+- **texture filter (engines)** — how a game engine samples your image when it scales it: **Nearest/Point** = crisp pixels; **Linear/Bilinear** = blur.
+
+## Clip Studio Paint EX — the pixel-perfect setup
+
+Clip Studio is not a pixel editor, but with eight settings it becomes a very good one — this is the workflow in Celsys' own Art Rocket tutorial by Dado Almeida and in a dozen official Clip Studio TIPS articles. Palette names changed in Ver. 5.0: the *Sub Tool* palette is now **Tool Group**, *Tool Property* is now **Tool Settings**, and *Sub Tool Detail* is now **Advanced Tool Settings** (older tutorials use the old names; the buttons are the same).
+
+1. **Canvas.** File > New, unit **px**, a small size — 32×32, 64×64, or a game screen like 320×180. For animation choose Project **Animation**, and in the same dialog set the timeline's **Image interpolation** to **Hard edges (nearest neighbor)** so that moving or scaling a cel never blurs it.
+2. **Display.** Leave Preferences > Canvas > **Display quality** on **Default** — the manual describes "High quality" as the prettier, slower rendering, and Default as the one where the image may look pixelated at some zoom levels, which for once is exactly what you want. Open a second view at 100 %: **Window > Canvas > New Window**. Add zoom steps under Preferences > Canvas > Scale if 800 % isn't in the list.
+3. **Grid.** **View > Grid** to show it; **View > Grid/Ruler bar settings** → **Gap 1 px, Number of divisions 1** — the field names as the official-site tutorials give them (the manual only says the default is 10 mm with 4 divisions); make sure Preferences > Ruler/Unit is in px. **View > Snap > Snap to grid** is optional.
+4. **Pen.** The **Dot pen** lives in the Pen tool's **Marker** group (Tool Group palette): fixed at one pixel, anti-aliasing off, no stabilisation — the manual's words: "used for drawing single-pixel lines, and the brush size cannot be changed above 1 pixel." For a bigger square pixel brush, duplicate any pen and in **Advanced Tool Settings > Anti-aliasing** choose **None**, set Brush size to 2–4, and turn off stabilisation. Do the same to an **Eraser**.
+5. **Fill and select.** In the **Fill** tool: **Anti-aliasing** off and **Area scaling** off (Area scaling grows the fill by a fraction of a pixel to hide anti-aliased gaps — pixel art has none, and it will eat your lines). In the **Auto select** tool: anti-aliasing off, Color margin 0. Text tool: anti-aliasing off.
+6. **Transform.** Every move, scale, or rotate of a selection (Edit > Transform) exposes **Interpolation method** in Tool Settings: set it to **Hard edges (nearest neighbor)** and leave it there.
+7. **Palette.** **Window > Color Set** → the spanner icon (**Edit color sets**) → a new empty set; then eyedrop colours and press **Add Color** at the bottom. Lospec palettes download as PNG — drop the 1× PNG onto a layer and eyedrop it in. (Color Set can also import `.cls` and Photoshop `.aco` files.) There is no indexed-colour mode in Clip Studio; discipline is your palette lock.
+8. **Scale and export.** The export dialog's scaling options blur pixel art — there is no nearest-neighbour choice there. So: **Edit > Change Image Resolution**, scale **800 %** (or any whole multiple), Interpolation **Hard edges (nearest neighbor)**, *then* **File > Export (Single Layer)** as PNG with **Export transparency** on. Keep the 1× `.clip` as your master. For animation: **File > Export animation > Image sequence** (PNG) at 1× for engines, **Animated GIF** for sharing — and switch the GIF dialog's **Dithering** option **off**, because dithering is a Lesson 16 decision, not something an exporter should make for you. Clip Studio does not export sprite sheets; engines take image sequences happily (Lesson 14), and the purpose-built editors below can assemble a sheet from your PNGs if you need one.
+
+Two more official helpers: **Filter > Effect > Mosaic** pixelates a drawing (useful to rough a sketch into blocks, never a substitute for placing pixels), and the Celsys channel has pixel-art videos with Brandon James Greer — *How to correctly scale and texture pixel art in Clip Studio Paint* and *Animate your pixel art with Clip Studio Paint!* — plus Dadotronic's *How to make custom pixel art tools*.
+
+## ibisPaint X — the pixel setup (phone)
+
+ibisPaint's own lecture "53. Display Grid on the Canvas" *is* a pixel-art setup guide, and two View-menu features added in version 10 (November 2022) exist specifically for it.
+
+1. **Canvas.** New canvas → **Any Size** → 32 × 32 (the lecture's example). For animation choose the **Animation** canvas type (Lesson 12) and set fps before creating.
+2. **View menu.** Turn **Grid** on (**Grid Settings**: Grid 1 Interval = 1; Grid 2 Interval = 8 or 16 for tile guides). Switch **Display when zooming** from **Smooth** to **Pixelated** — the official new-features page: "for pixel art drawings, Pixelated is appropriate."
+3. **Pen.** **Digital Pen**, Thickness **1.0 px**. Open the brush's parameters and under **Shape** turn **Antialias** off ("When turned off, the edges of the brush pattern are jagged" — here, a feature). If you use a textured brush, turn **Texture Antialiasing** off too. Same for the **Eraser**.
+4. **Bucket.** **Strength 0 %** (exact colour only) and **Expansion 0 px** — the default 1.5 px exists to cover anti-aliased line edges, which pixel art doesn't have.
+5. **Transform and resize.** In the **Transform** tool's Translate/Scale, set **Interpolation Method** to **Nearest Neighbor (Dot)** ("No interpolation. Suitable for pixel art"). In the **Canvas** tool's **Resize**, choose **Nearest Neighbor (Pixel)** — the one the manual recommends "for enlarging and reducing pixel art."
+6. **Export.** Save Image → **PNG**, **Transparent** on. There is no scale-on-export option except **Super-resolution x2**, which is an AI upscaler — never use it on pixel art. For a big share copy: duplicate the canvas, **Resize** to 800 % with Nearest Neighbor (Pixel), export; keep the 1× original.
+7. **Animation.** Frames, onion skin, per-frame **Duration**, and **Loop / Ping pong / One-shot** work exactly as in Lesson 12; **Save Animation Video** is for sharing. Video has no transparency, so for a game export each frame as a transparent PNG (the official docs describe no sprite-sheet export — say so to yourself and plan the minute it takes).
+8. **Palettes.** Version 14 (March 2026) added multiple named colour palettes, with export/import and sharing by QR code — make one per project.
+
+Toys, honestly labelled: **Filter > Retro Game** converts a picture to eight colours and chunky dots, and the **Pixelate** filters (Square, Hexagonal, Triangular) mosaic an image. They can rough out a reference; they are not pixel art, because nobody chose the pixels. The official ibisPaint channel has a short *How to draw Pixel Art* video if you want to watch the setup once.
+
+## The purpose-built editors (free, open, legal)
+
+Pixel art has its own tools, and the free ones are excellent. They share the features Clip Studio and ibisPaint lack: a pixel-perfect pencil, an always-on pixel grid, indexed palettes, frame timing in milliseconds, frame tags, and one-click sprite-sheet export.
+
+| Editor | Licence / price | Runs on | Animation | Standouts |
+|---|---|---|---|---|
+| **Pixelorama** (Orama Interactive) | MIT, free (optional paid Steam build) | Windows, macOS, Linux, **web browser** (on its itch.io page), Android (experimental) | timeline with layers and frames, onion skin, frame tags, loop / ping-pong | indexed mode, palettes (`.gpl`, `.json`, PNG), spritesheet and APNG/GIF export, tilemap layers, non-destructive effects; v1.2.1 released August 2026 |
+| **LibreSprite** | GPLv2, free | Windows, macOS, Linux, Android, web build | real-time preview, onion skin, layers and frames | a community fork of Aseprite's last GPL code (2016); shading mode, tiled drawing mode for patterns |
+| **Piskel** | Apache-2.0, free | any browser; desktop builds for Windows/macOS/Linux | live preview, layers, onion skin, per-animation fps | GIF, PNG, and spritesheet export; the simplest possible on-ramp — but development has been quiet since 2018 (the site itself recommends the web version over the desktop builds) |
+| **GraphicsGale** | freeware since 2017 (commercial use allowed) | Windows only | real-time preview, onion skin, layers | palette control, sprite-sheet and GIF export; a veteran Japanese sprite tool |
+| **Pixilart** (the editor at pixilart.com/draw) | free, browser | any browser | frames with speed control, onion skin | GIF/WEBP/MP4/sprite-sheet export, palettes, a pixel-perfect pencil toggle, and a social community around it |
+
+Honourable mentions: **Krita** (free, GPLv3) ships a "Pixel" group of brush presets, a pixel grid and a Nearest Neighbour canvas-scaling option in its display settings, and a full animation timeline with an onion-skin docker — a serious free option if you already paint in it. **GIMP** (free, GPL) gets you there with the Pencil tool (which the manual notes "does not even do anti-aliasing"), Interpolation **None** for scaling, and **Image > Mode > Indexed** — but has no animation timeline. Lospec's own browser editor still works but is no longer developed.
+
+Which one? If you want zero installation, **Piskel** or **Pixilart** in a browser tab. If you want the fullest free feature set, **Pixelorama**. If you want the Aseprite workflow without paying, **LibreSprite** — with the caveat that it is ten years behind its parent.
+
+## Aseprite — the paid standard, and the legal free route
+
+**Aseprite** is the tool most working pixel artists use, and most tutorials assume. It is not free: the official FAQ's wording is that "$19.99/USD is the minimum pledge amount" for the ready-made Windows, macOS, and Linux builds (also sold on Steam), DRM-free, with a free trial that can't save. Current version at this check: 1.3.18.2 (August 2026).
+
+The honest legal route to a free copy: Aseprite's **source code is public on GitHub**, and its licence permits you to build it yourself for personal use. The EULA: "You may only compile and modify the source code of the SOFTWARE PRODUCT for your own personal purpose or to propose a contribution to the SOFTWARE PRODUCT." The FAQ: "Now you can still download its source code, compile it, and use it for your personal purposes." You may *not* redistribute builds — that has been the rule since August 2016, when the project left the GPL (which is why LibreSprite, forked from the last GPL commit, exists). Compiling is a developer task (CMake, Ninja, a C++ toolchain — the repo's INSTALL file walks through it); if that isn't you, the $19.99 is one of the better-spent sums in indie art. Teachers in educational institutions can request a special educational licence.
+
+What you get, from the official docs: **Indexed** mode with palettes up to 256 colours (the colour-bar docs: "You cannot use colors that are not present in the palette, except by modifying the palette itself" — the palette lock Clip Studio lacks); a **timeline** of layers, frames, and cels with **onion skinning** (F3); **tags** (Frame > Tags > New Tag) with Forward / Reverse / Ping-pong directions and a **loop section** (F2); **File > Export Sprite Sheet** with JSON data that engines and tools read, and a command-line interface (`--sheet`, `--data`, `--split-tags`) for batch export; a **pixel-perfect** freehand mode; and the DawnBringer 32 palette as the default. Medeiros's free article *A Basic Aseprite Animation* and MortMort's *Aseprite Guide for Beginners* are the two on-ramps.
+
+## The road into the game: keeping pixels square
+
+Lesson 14's pipeline is unchanged — transparent PNGs, zero-padded names, frames grouped per action, the animation's fps set in the engine — with one new requirement: the engine must never blur or fractionally scale your pixels. Each engine has a three-line answer, all from the official documentation:
+
+- **Godot 4.7.** Project Settings > Display > Window > Stretch: **Mode = viewport**, **Aspect = keep** (or expand), **Scale Mode = integer** — the manual: "This is useful to prevent distortion when displaying pixel art." Give the project a small base size (the docs: "Most pixel art games use viewport sizes between 256×224 and 640×480" — 320×180 or 640×360 suit widescreen). Rendering > Textures > Canvas Textures > **Default Texture Filter = Nearest** (the project setting `rendering/textures/canvas_textures/default_texture_filter`). Rendering > 2D > Snap > **Snap 2D Transforms to Pixel** on (`rendering/2d/snap/snap_2d_transforms_to_pixel`), so sprites never sit between pixels — the Sprite2D class reference warns that for "a pixel art aesthetic, textures may appear deformed when centered" and points to exactly these snap settings. Import textures as **Lossless**.
+- **Unity 6.3.** On every sprite: the same **Pixels Per Unit**, **Filter Mode = Point (no filter)**, **Compression = None** (the manual's prerequisites for its pixel-perfect camera). Then add the **Pixel Perfect Camera** component (built into URP): **Asset Pixels Per Unit** to match the sprites, **Reference Resolution** to your design size, and **Grid Snapping** set to **Upscale Render Texture** (renders at the reference size, then scales up — the crispest option) or **Pixel Snapping**.
+- **Unreal 5.7/5.8.** Right-click each imported texture → **Sprite Actions > Apply Paper 2D Import Settings** — it "removes Mipmaps, sets the Filter to Nearest"; use an **Orthographic** camera (Projection Mode in the camera's Details) for a flat 2D view.
+- **The plain web.** CSS: `img, canvas { image-rendering: pixelated; }` (MDN: scaled "with the 'nearest neighbor' or similar algorithm"). Canvas: `ctx.imageSmoothingEnabled = false;` before any `drawImage` — MDN: "When enlarging images, the default resizing algorithm will blur the pixels. Set this property to false to retain the pixels' sharpness." Lesson 14's `steps()` and canvas player need nothing else.
+
+```css
+/* Pixel art on the web: whole-number scale, no smoothing. */
+.sprite {
+  width: 128px;            /* a 32 px sprite shown at exactly 4× */
+  height: 128px;
+  image-rendering: pixelated;
+}
+```
+
+Two traps the settings don't cover: **scrolling cameras at fractional positions** make sprites shimmer — snap the camera, too (Godot's snap settings; Unity's Pixel Snapping) — and **mixed resolutions** (a 16-px hero next to 32-px tiles drawn at a different scale) break the illusion that the screen *is* a low-resolution display. Medeiros's consistency post: one base resolution, integer-scaled as a whole.
+
+## The personality survives the pipeline
+
+Nothing here changed a drawing — and that is the point of doing it right. A sprite whose pixels stay square carries every decision from Lessons 15–17 into the game intact: the one-pixel eye shift, the held hit frame, the hair one frame late. And the runtime dial from Lesson 14 still works: the engine's play-speed multiplier is the timing dial, so the same 4-frame walk at 0.6× is a trudge and at 1.4× is a scurry. Blur any of it and the audience can't read it. Keep it square and a sixteen-pixel person can act.
+
+## If you only keep three things
+
+1. **Clip Studio:** Dot pen (Pen > Marker), anti-aliasing **None** on pens, fills, selections and text, Area scaling off, Interpolation **Hard edges (nearest neighbor)** on every transform, a 1-px grid — and scale with **Edit > Change Image Resolution**, never in the export dialog. **ibisPaint:** Grid on, **Display when zooming = Pixelated**, Digital Pen 1.0 px with Antialias off, Bucket Strength 0 % / Expansion 0 px, **Nearest Neighbor** for transform and resize, PNG export at 1×.
+2. **Purpose-built editors** add pixel-perfect pencils, indexed palettes, ms timing, tags, and sprite-sheet export: **Pixelorama**, **LibreSprite**, **Piskel**, **GraphicsGale**, **Pixilart** are free; **Aseprite** ($19.99, or compile it yourself for personal use) is the standard.
+3. **In the engine:** Nearest/Point filtering, **integer** scaling, and pixel snapping — Godot's viewport + integer stretch, Unity's Pixel Perfect Camera, Unreal's Paper 2D import settings, the web's `image-rendering: pixelated` / `imageSmoothingEnabled = false`.
+
+## Sources for this lesson (official documentation and the tools' own sites; details in Lesson 19)
+
+- **Clip Studio Paint (Celsys):** Dado Almeida, *How to Draw Pixel Art: A Tutorial* (Art Rocket): https://www.clipstudio.net/how-to-draw/archives/161082 — Official manual: *Special brushes* (Dot pen): https://help.clip-studio.com/en-us/manual_en/240_brushes/Special_brushes.htm — *Anti-aliasing* setting (Advanced Tool Settings): https://help.clip-studio.com/en-us/manual_en/810_subtools/A.htm — *Change Image Resolution* (interpolation method names): https://help.clip-studio.com/en-us/manual_en/210_file/Change_canvas_size.htm — *Creating a new canvas* (timeline Image interpolation): https://help.clip-studio.com/en-us/manual_en/210_file/Creating_a_New_Canvas.htm — *Using the ruler bar and grid*: https://help.clip-studio.com/en-us/manual_en/270_canvas/Using_the_ruler_bar_and_grid.htm — *Preferences* (Display quality): https://help.clip-studio.com/en-us/manual_en/720_preferences/Preferences.htm — *Color Set palette*: https://help.clip-studio.com/en-us/manual_en/300_color/Color_Set_palette.htm — *Exporting files*: https://help.clip-studio.com/en-us/manual_en/210_file/Exporting_files.htm — *Export animation*: https://help.clip-studio.com/en-us/manual_en/600_animation/Export_animation.htm — *Filters* (Mosaic): https://help.clip-studio.com/en-us/manual_en/390_filters/Filters.htm — Ver. 5 palette renames: https://www.clipstudio.net/en/dl/release_note/latest/ — Clip Studio TIPS: KevinFarias, *How to make PIXEL ART Animation in Clip Studio Paint*: https://tips.clip-studio.com/en-us/articles/5314 — babeoded, *Animated Retro Pixel Art for Game Splash Screen*: https://tips.clip-studio.com/en-us/articles/3562 — babeoded, *Making Pixel Art Forest Tilesets* (Grid "Gap(D)" 1 px; Color Set palettes): https://tips.clip-studio.com/en-us/articles/7567 — Naoi21-arts, *Turn Your Illustrations into Pixel Art Using Clip Studio* (the grid dialog's "Gap(D)" and "Number of divisions" fields): https://tips.clip-studio.com/en-us/articles/5384 — FrostDrive, *Pixel Art Practices Explained Simply*: https://tips.clip-studio.com/en-us/articles/5360 — robertoivy_01, *Pixel Art Characters: Workflow, Setup & Styles*: https://tips.clip-studio.com/en-us/articles/11460 — Official channel videos: Brandon James Greer, *How to correctly scale and texture pixel art in Clip Studio Paint*: https://www.youtube.com/watch?v=LgDA3RqbgCY — *Animate your pixel art with Clip Studio Paint!*: https://www.youtube.com/watch?v=L3AXOqtuY2o — Dadotronic, *How to make custom pixel art tools in Clip Studio Paint*: https://www.youtube.com/watch?v=ChwPpSbD524
+- **ibisPaint X (ibis inc.):** lecture *53. Display Grid on the Canvas*: https://ibispaint.com/lecture/index.jsp?no=171&lang=en — *184. View Menu Details* (Grid, Display when zooming): https://ibispaint.com/lecture/index.jsp?no=168&lang=en — *179. Details of Brush Parameters* (Antialias): https://ibispaint.com/lecture/index.jsp?no=118&lang=en — *180. Bucket tool details*: https://ibispaint.com/lecture/index.jsp?no=82&lang=en — *67. Changing image resolution with Resize*: https://ibispaint.com/lecture/index.jsp?no=77&lang=en — *182. Transform Tool Details*: https://ibispaint.com/lecture/index.jsp?no=154&lang=en — *54. Export an Artwork (Save)*: https://ibispaint.com/lecture/index.jsp?no=206&lang=en — new-features page (Pixelated zoom, grid): https://ibispaint.com/newFeature.jsp?lang=en — ver. 10.0.1 release note (grid, zoom interpolation): https://ibispaint.com/information.jsp?newsID=54735849 — ver. 9.0.0 release note (Nearest Neighbor transform): https://ibispaint.com/information.jsp?newsID=22182838 — news: *How to draw Pixel Art* (official video): https://ibispaint.com/information.jsp?newsID=26557593
+- **Free editors:** Pixelorama — https://pixelorama.org/ — itch.io (with the web version): https://orama-interactive.itch.io/pixelorama — GitHub (MIT): https://github.com/Orama-Interactive/Pixelorama — LibreSprite: https://libresprite.github.io/ — GitHub (GPLv2): https://github.com/LibreSprite/LibreSprite — Piskel: https://www.piskelapp.com/ — GitHub (Apache-2.0): https://github.com/piskelapp/piskel — GraphicsGale: https://graphicsgale.com/us/ — Pixilart editor: https://www.pixilart.com/draw — Krita docs, *Animation*: https://docs.krita.org/en/user_manual/animation.html — *Display settings* (pixel grid, Nearest Neighbour scaling): https://docs.krita.org/en/reference_manual/preferences/display_settings.html — *Onion skin docker*: https://docs.krita.org/en/reference_manual/dockers/onion_skin.html — *Brush preset bundle* (the Pixel presets): https://docs.krita.org/en/reference_manual/krita_4_preset_bundle.html — GIMP docs, *Pencil*: https://docs.gimp.org/en/gimp-tool-pencil.html — *Indexed mode*: https://docs.gimp.org/en/gimp-image-convert-indexed.html
+- **Aseprite:** https://www.aseprite.org/ — FAQ (price, source, licence history): https://www.aseprite.org/faq/ — GitHub: https://github.com/aseprite/aseprite — EULA: https://raw.githubusercontent.com/aseprite/aseprite/main/EULA.txt — docs: *Color modes*: https://www.aseprite.org/docs/color-mode/ — *Color bar* (palette lock in Indexed images): https://www.aseprite.org/docs/color-bar/ — *Timeline*: https://www.aseprite.org/docs/timeline/ — *Onion skinning*: https://www.aseprite.org/docs/onion-skinning/ — *Tags*: https://www.aseprite.org/docs/tags/ — *Sprite sheet*: https://www.aseprite.org/docs/sprite-sheet/ — *CLI*: https://www.aseprite.org/docs/cli/ — MortMort, *Aseprite Guide for Beginners* (video): https://www.youtube.com/watch?v=Md6W79jtLJM
+- **Engines and web:** Godot, *Multiple resolutions*: https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html — *Importing images*: https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_images.html — *Sprite2D* class reference (the pixel-snap note and setting names): https://docs.godotengine.org/en/stable/classes/class_sprite2d.html — Unity, *Pixel Perfect Camera component reference* (6.3 manual): https://docs.unity3d.com/6000.3/Documentation/Manual/urp/2d-pixelperfect-ref.html — *Add a pixel perfect camera* (sprite prerequisites): https://docs.unity3d.com/6000.3/Documentation/Manual/urp/2d-pixelperfect-prep-sprites.html — Unreal, *Import & use Paper 2D sprites* (Apply Paper 2D Import Settings): https://dev.epicgames.com/documentation/en-us/unreal-engine/how-to-import-and-use-paper-2d-sprites-in-unreal-engine — *Orthographic camera*: https://dev.epicgames.com/documentation/unreal-engine/orthographic-camera-in-unreal-engine?lang=en-US — MDN, *image-rendering*: https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering — *imageSmoothingEnabled*: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/imageSmoothingEnabled
+- **Habits:** Pedro Medeiros, *Scaling Pixel Art*: https://saint11.art/blog/scaling/ — *Saving and Exporting Pixel Art* (whole numbers, never fractions; PNG only): https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-8-eb218a4637dd — *Consistency*: https://saint11.art/blog/consistency/ — Cure, *The Pixel Art Tutorial*: https://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318
+
+---
+
+# PART VIII — THE LIBRARY
+
+---
+
+# Lesson 19 — Annotated Bibliography (Every Link Verified, Free & Legal)
+
+**How this list was built.** Every URL below was fetched and confirmed live on **16 August 2026** — the pixel-art entries added for Part VII on **20 August 2026** (for those, YouTube videos were confirmed through YouTube's own embed service, which returns each video's exact title and channel, because the watch pages themselves rate-limit automated checks). Only free *and* clearly legal sources made the cut: creators' own channels and websites, companies' own free tutorials and documentation, Wikipedia, Khan Academy, and genuinely public-domain material on the Internet Archive. (A caution from the wild: convincing-looking but *fake* URLs for animation resources circulate widely — including in AI-generated lists. Nothing below is cited from memory; everything was checked.) YouTube and Vimeo videos are free to watch on the creators' own channels; "public domain" entries are free to download, keep, and study without restriction.
 
 ## Foundations & the twelve principles
 
@@ -1756,6 +2413,7 @@ A last connecting thought, because it is the whole point: **nothing in this less
 
 - **Animation – The Mechanics of Bird Flight** — Aaron Blaise (his own channel) — video — https://www.youtube.com/watch?v=2FR982O37dw — Wing mechanics for hand-drawn flight from a Disney veteran; the antidote to flapping-plank birds.
 - **Tutorial: How to Animate Birds in Flight** — Animation Mentor blog (Gleb Sitnichenko) — article — https://www.animationmentor.com/blog/tutorial-how-to-animate-birds-in-flight/ — A wing is an arm (upper arm, forearm, wrist); asymmetric up/downstrokes; feather follow-through; body, head, and tail integration.
+- **Tutorial: How to Animate Swimming** — Animation Mentor blog — article — https://www.animationmentor.com/blog/tutorial-how-to-animate-swimming/ — Body mechanics, timing, and flow for believable underwater motion; the companion to Lesson 6's "Swimming: flight's denser sibling" section.
 - **How to Animate a Cape in the Wind** — KevinFarias, Clip Studio TIPS (Celsys' official free tutorial site) — article + video — https://tips.clip-studio.com/en-us/articles/2160 — A ten-key cape cycle in the exact software this guide targets; capes are flight's co-star.
 - **Superman – The Complete Collection (1941–43)** — Fleischer/Famous Studios, on the Internet Archive — public-domain films — https://archive.org/details/superman-the-complete-collection-fleischerfamous-studios — All seventeen shorts, openly streamable and downloadable (copyrights were never renewed — background: <https://en.wikipedia.org/wiki/Superman_(1941_film)> ; single-short copy: https://archive.org/details/superman_the_mad_scientist ). The free masterclass in flight, capes, effects, and heroic staging.
 
@@ -1804,6 +2462,89 @@ A last connecting thought, because it is the whole point: **nothing in this less
 - **Unreal Engine documentation, Paper 2D** — Epic Games (verified on the current 5.8 docs; identical for 5.7) — *Paper 2D overview* — https://dev.epicgames.com/documentation/en-us/unreal-engine/paper-2d-overview-in-unreal-engine — *Import & use sprites* — https://dev.epicgames.com/documentation/en-us/unreal-engine/how-to-import-and-use-paper-2d-sprites-in-unreal-engine — *Flipbooks* — https://dev.epicgames.com/documentation/en-us/unreal-engine/paper-2d-flipbooks-in-unreal-engine — *UPaperFlipbookComponent* — https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/Paper2D/UPaperFlipbookComponent
 - **MDN Web Docs** — Mozilla — *CanvasRenderingContext2D.drawImage* (the 9-argument crop-and-paint call behind the canvas player) — https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage — *steps() easing function* (frame-by-frame playback in pure CSS) — https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function/steps
 
+## Pixel art — foundations (Lesson 15)
+
+- **Pixel Art Articles** (free beginner series, 8 parts) — Pedro Medeiros / Saint11 (pixel artist of *Celeste*; his own site) — articles — https://saint11.art/pixel_articles — Start here: *An Absolute Beginner's Guide* (16×16 first, 4–12 colours, pixel-perfect lines, orphan pixels) — https://saint11.art/pixel_art_articles/article1 — *Cluster Sketching and Painting* — https://saint11.art/pixel_art_articles/article2 — *A Basic Aseprite Animation* — https://saint11.art/pixel_art_articles/article3 — *Basic Shading* — https://saint11.art/pixel_art_articles/article4 — *Anti-Alias and Banding* — https://saint11.art/pixel_art_articles/article5 — *Basic Color Theory* — https://saint11.art/pixel_art_articles/article6 — *Working with lines* (Medium) — https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-7-e504bfa4ddf2 — *Saving and Exporting Pixel Art* (Medium) — https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-8-eb218a4637dd — Companion pages: *Glossary* — https://saint11.art/blog/glossary/ — *Scaling Pixel Art* — https://saint11.art/blog/scaling/ — *Consistency* — https://saint11.art/blog/consistency/ — *My Thoughts on Very Low Resolution* — https://saint11.art/blog/thoughts_on_low_resolution — His tutorials are released under CC BY 4.0 (stated in the GitHub repository that hosts them: https://github.com/saint11/Saint11Tutorials ).
+- **Pixel Art Tutorial: Basics** — Derek Yu (creator of *Spelunky*; his own site) — article — https://www.derekyu.com/makegames/pixelart.html — The eight-step sprite process (sketch → clean lines → flat colour → shade → anti-alias → selective outline → touches and dither → review), with the clearest definitions of jaggies, banding, and selout in print; "Pixel art is defined by its constraints."
+- **PIXNOTE — Learn** — PIXNOTE (a free browser pixel-art maker with a tutorial wing) — articles — https://pixnote.net/en/learn/ — *Getting Started* — https://pixnote.net/en/learn/getting-started/ — *Outlines & Anti-Aliasing (selout)* — https://pixnote.net/en/learn/outlines/ — *Characters* (sizes, head ratios, the silhouette test, "moving an eye by one pixel changes expression") — https://pixnote.net/en/learn/character/ — *Glossary with visual demos* — https://pixnote.net/en/learn/glossary/ — Free to read; tidy, numerical, beginner-first.
+- **Pixelblog** (the complete catalogue) — Raymond Schlitter / SLYNYRD (his own site) — illustrated tutorials — https://www.slynyrd.com/pixelblog-catalogue — Foundations posts used in Lesson 15: *5 – Back to Basics* (clusters, scale only by whole multiples) — https://www.slynyrd.com/blog/2018/5/16/pixelblog-5-back-to-basics — *7 – Developing Style* — https://www.slynyrd.com/blog/2018/7/14/pixelblog-7-developing-style — *17 – Human Anatomy* — https://www.slynyrd.com/blog/2019/5/21/pixelblog-17-human-anatomy — *22 – Top Down Character Sprites* — https://www.slynyrd.com/blog/2019/10/21/pixelblog-22-top-down-character-sprites — *47 – Tiny Pixels* ("The beauty of pixel art comes from the lack of information") — https://www.slynyrd.com/blog/2023/11/26/pixelblog-47-tiny-pixels
+- **The Pixel Art Tutorial** — Cure, Pixel Joint forum (2010) — forum tutorial — https://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318 — The community's foundational text: what pixel art is, terms to know, things to avoid, and "Never, ever save as JPG."
+- **Ramblethread! A brainstorm approaches!** — Pixelation forum — forum thread (the live topic page no longer loads, so this is a Wayback Machine copy) — https://web.archive.org/web/20250323171825/https://pixelation.org/index.php?topic=8110.0 — The cluster doctrine in raw form: "The prime job of the pixel artist is to find the ideal shape for every cluster"; "Perfect lines are the 90 and 45 degree ones."
+- **Pixel Art Tutorial** — Arne Niklas Jansson (his own site, androidarts.com) — article — https://androidarts.com/pixtut/pixelart.htm — A painter's approach to pixels: outlines and top-lighting, orphan pixels, hue-shifted ramps, banding, dithering as texture, designing for the grid's angles. Companion *PSG Art Tutorial* — https://androidarts.com/art_tut.htm
+- **Readability – Pixel art style possibilities** / **Pixel Art – Shapes and Outlines** — Thomas Feichtmeir / Cyangmou (originally on his DeviantArt, since taken down; Wayback Machine copies) — tutorial charts — https://web.archive.org/web/20220914214941/https://www.deviantart.com/cyangmou/art/Readability-Pixel-art-Style-possibilities-723970229 — https://web.archive.org/web/20221205174609/https://www.deviantart.com/cyangmou/art/Pixel-Art-Shapes-and-Outlines-722784595 — Readability as shape contrast; outline styles from minimal to complex and which suit small vs large sprites.
+- **3 PixelArt Techniques/Common Mistakes (Doubles, Jaggies & Outline)** / **Basic Anti-Aliasing for beginners** — MortMort (his own channel) — videos — https://www.youtube.com/watch?v=gW1G_FLsuEs — https://www.youtube.com/watch?v=UN-m3o9V7kk — Short, visual, and exactly on target for Lesson 15's line faults.
+- **Pixel Art Class – What is Pixel Art?** — AdamCYounis (his own channel) — video — https://www.youtube.com/watch?v=7BWr2tlK-4c — The opening of a 57-video free series; the full playlist is https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_
+- **Pixel Art: Where to Start** — Lospec (skeddles) — article — https://lospec.com/pixel-art-where-to-start — Use a ready-made palette, pick an editor, start now; communities to join. Lospec's searchable tutorial database (hundreds of entries, tagged) — https://lospec.com/pixel-art-tutorials
+- **Pixel art** / **Spatial anti-aliasing** / **Sprite (computer graphics)** / **Pixel-art scaling algorithms** — Wikipedia — encyclopedia articles — https://en.wikipedia.org/wiki/Pixel_art — https://en.wikipedia.org/wiki/Spatial_anti-aliasing — https://en.wikipedia.org/wiki/Sprite_(computer_graphics) — https://en.wikipedia.org/wiki/Pixel-art_scaling_algorithms — Definitions and history (the 1982 Xerox PARC coinage; why sprites are called sprites); the last one explains the hqx/xBR filters emulators use — and why you never run them on art you authored.
+
+## Pixel art — colour (Lesson 16)
+
+- **Pixelblog 1 – Color Palettes** / **6 – Light and Shadow** — Raymond Schlitter / SLYNYRD — https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes — https://www.slynyrd.com/blog/2018/6/15/pixelblog-6-light-and-shadow — HSB ramps with 20° of hue shift per swatch (saturation peaking mid-ramp in his example, "not a hard rule"); light source first, light as mood.
+- **Shading & Lighting** / **Dithering** — PIXNOTE — https://pixnote.net/en/learn/shading/ — https://pixnote.net/en/learn/dithering/ — Hue shifting as "the most important technique for attractive pixel art shadows"; tone counts by sprite size; the five dither patterns and when not to use them.
+- **Palette List** — Lospec — palette database (free downloads in PNG/PAL/ASE/GPL/HEX) — https://lospec.com/palette-list — Named palettes used in this guide: *ENDESGA 32* — https://lospec.com/palette-list/endesga-32 — *DawnBringer 32* (Aseprite's default) — https://lospec.com/palette-list/dawnbringer-32 — *PICO-8* — https://lospec.com/palette-list/pico-8 — *Sweetie 16* — https://lospec.com/palette-list/sweetie-16 — *AAP-64* — https://lospec.com/palette-list/aap-64 — *ARQ4* — https://lospec.com/palette-list/arq4 — *AAP-Micro12* — https://lospec.com/palette-list/aap-micro12
+- **Pixel Art Class – Palettes & Colour** / **Lighting & Shading Basics** / **Palette Mixing Tutorial** — AdamCYounis — videos — https://www.youtube.com/watch?v=hkrK65FPmDI — https://www.youtube.com/watch?v=u7v4uEDwW9o — https://www.youtube.com/watch?v=rSy9xef-MXM
+- **1-Bit Pixel Art Techniques** — Brandon James Greer (his own channel) — video — https://www.youtube.com/watch?v=0BZwEoj50uw — What two colours can do when pattern and silhouette carry everything. His Clip Studio colour videos on Celsys' official channel: *3 shading and coloring tips for clean pixel art!* — https://www.youtube.com/watch?v=ihmH5jFn_a4 — *1 must-know tip when coloring pixel art!* — https://www.youtube.com/watch?v=lCv-HAEHMVE
+- **So You Want To Be A Pixel Artist?** — Tsugumo (early-2000s classic; community mirror, the original site is long gone) — text tutorial — index: https://mirror.motherhamster.org/tsugumo/default.html — chapter 6 (dithering, black as a key colour, keep floors low-contrast so the player never squints): http://www.geocities.ws/skulkraken2002/Tsugumo/chapter6.htm — Cited as a historical text that has circulated freely with the author's name for two decades; no formal licence exists.
+- **Dither** / **Ordered dithering** / **Indexed color** — Wikipedia — https://en.wikipedia.org/wiki/Dither — https://en.wikipedia.org/wiki/Ordered_dithering — https://en.wikipedia.org/wiki/Indexed_color — Where the word comes from (WWII bomb computers that ran better while trembling), the Bayer matrix, and why old hardware had palettes at all.
+- **Palette Swap** — Giant Bomb (community wiki; definition) — https://www.giantbomb.com/wiki/Concepts/Palette_Swap — and TV Tropes (community wiki; the game-history examples: Pac-Man's ghosts, Luigi, mirror matches, the ninjas) — https://tvtropes.org/pmwiki/pmwiki.php/Main/PaletteSwap — Pop references for Lesson 16's recolour trick, not craft sources.
+
+## Pixel art — animation (Lesson 17)
+
+- **Pixel Art Tutorials** (the animated boards) — Pedro Medeiros / Saint11 — ~90 free 512×512 animated tutorial sheets on one page — https://saint11.art/blog/pixel-art-tutorials/ — Walk, run, idle, jump, wall-slide, top-down cycles, sub-pixel, squash, easing, motion blur, outlines, silhouette, fabric, fire, water, smoke, explosions, electricity, wind, wings and more. "All these tutorials are free to access" (his words); also mirrored in the CC BY 4.0 repository above. The itch.io zip of the same boards is an optional $5 convenience, not a paywall.
+- **Pixelblog — animation posts** — Raymond Schlitter / SLYNYRD — *8 – Intro to Animation* ("Too many frames can leach the energy from your motion") — https://www.slynyrd.com/blog/2018/8/19/pixelblog-8-intro-to-animation — *9 – Melee Attacks* — https://www.slynyrd.com/blog/2018/9/8/pixelblog-9-melee-attacks — *10 – Water in Motion* — https://www.slynyrd.com/blog/2018/10/12/pixelblog-10-water-in-motion — *25 – Motion Cycles* (walk, dog walk, bird flight in 8 frames) — https://www.slynyrd.com/blog/2020/1/23/pixelblog-25-motion-cycles — *33 – Wind Effects* — https://www.slynyrd.com/blog/2021/7/16/pixelblog-33-wind-effects — *50 – Human Walk Cycle* (triangle-wave head bob; arm swing as personality) — https://www.slynyrd.com/blog/2024/5/24/pixelblog-50-human-walk-cycle — *52 – Idle Fighting Stance* ("one of the most effective means of displaying personality") — https://www.slynyrd.com/blog/2024/9/26/pixelblog-52-idle-fighting-stance — *53 – Punches and Kicks* (smears, held hit frames) — https://www.slynyrd.com/blog/2024/11/25/pixelblog-53-punches-and-kicks — *55 – Top Down Character Animation* — https://www.slynyrd.com/blog/2025/3/24/pixelblog-55-top-down-character-animation — *58 – Part 3* (ms timings) — https://www.slynyrd.com/blog/2025/10/2/pixelblog-58-top-down-character-animation-part-3 — *60 – Side View Run 'N Gun* — https://www.slynyrd.com/blog/2026/1/26/side-view-run-n-gun
+- **How to Animate Pixel Art** and the flipbook lessons — PIXNOTE — https://pixnote.net/en/learn/animation/ — *Walk cycle* — https://pixnote.net/en/learn/animate-walk-cycle/ — *Jump* — https://pixnote.net/en/learn/animate-jump/ — *Bouncing ball* — https://pixnote.net/en/learn/animate-bouncing-ball/ — *Waving (flags, hair, tails)* — https://pixnote.net/en/learn/animate-waving/ — fps bands (8–12 standard, 4–6 idle, 15–24 attacks), frame counts, and the follow-through wave.
+- **So You Want To Be A Pixel Artist? — chapter 10, Breathing Life Into Your Sprites** — Tsugumo (community mirror) — http://www.geocities.ws/skulkraken2002/Tsugumo/chapter10.htm — The personality-idle text: breathing in four frames, peaks held longer, "The animation you give your character should be based on their personality," and "Less is more."
+- **Walk Cycles, Part 1** — Jason Perry, Final Boss Blues (his own site) — article — http://finalbossblues.com/walk-cycles-p1/ — 3-, 4-, and 8-frame RPG walks; "lift-plant-push"; the backward drag of the planted foot.
+- **Pixel art Character Animations guide** — Sandro Maglione (his own site) — article — https://www.sandromaglione.com/articles/pixel-art-character-animations-guide — A 16×16 character's idle, walk, and jump with frame counts, including the one-frame hair delay.
+- **Pixel Art Class — animation episodes** — AdamCYounis — videos — *Sub-Pixel Animation* — https://www.youtube.com/watch?v=cs1Gp61yafQ — *Simple Character Idle Animation* — https://www.youtube.com/watch?v=vs-ierVdE7I — *Run Animation Tutorial [Part 1]* — https://www.youtube.com/watch?v=LPBvrdJ_1a8 — *Making Pixel Art Worth Animating* — https://www.youtube.com/watch?v=52A4KgX-wNI — *Attack Animations* — https://www.youtube.com/watch?v=nJbzBSVy1u0
+- **Pixel Art Character Animation | Tips, Tricks, and Workflow** — Brandon James Greer — video — https://www.youtube.com/watch?v=jdnCOlATb-c
+- **Easy Pixel Art Walk Cycle Tutorial** — Saultoons (own channel) — https://www.youtube.com/watch?v=7T6yOk5n-zk — **How To Pixel Art Tutorials [17] – Walk Cycle (6 & 8 frames)** and **[12] – 2&4 Frames Walk/Run Cycle Animations** — Dual Core Studio (own channel) — https://www.youtube.com/watch?v=5QTCwiJUmmo — https://www.youtube.com/watch?v=9lemPuqxIug — **The secrets to good Pixel Art animation!** — Pixel Overload (own channel) — https://www.youtube.com/watch?v=J1sFBDQt8J0
+- **Pixilart tutorials by Jason Tomlee** — Pixilart (free browser editor with a community tutorial wing) — image tutorials — *Fire: Shading and Animation* — https://www.pixilart.com/tutorial/fire-shading-and-animation-115 — *Animation: Squash & Stretch* — https://www.pixilart.com/tutorial/animation-squash-stretch-61 — *Animation – Anticipation* — https://www.pixilart.com/tutorial/animation-anticipation-62 — *SmokePoofs – Movement* — https://www.pixilart.com/tutorial/smokepoofs-movement-51 — Tutorials hub: https://www.pixilart.com/tutorials
+- **Lospec tutorial tags** — *walkcycle* — https://lospec.com/pixel-art-tutorials/tags/walkcycle — *animation* — https://lospec.com/pixel-art-tutorials/tags/animation
+- **Idle animation** — Wikipedia — https://en.wikipedia.org/wiki/Idle_animation — Why idles exist ("to give personality towards games and their characters"), from 1978 to Sonic's foot-tap.
+
+## Software — pixel art in Clip Studio Paint (Lesson 18; all on Celsys' official sites)
+
+- **How to Draw Pixel Art: A Tutorial** — Dado Almeida, Art Rocket (clipstudio.net) — https://www.clipstudio.net/how-to-draw/archives/161082 — The canonical CSP pixel setup: 64×64, a one-pixel grid, a second window at 100 %, the Dot pen, anti-aliasing off everywhere, Hard edges on transforms, PNG/GIF never JPEG.
+- **Official manual pages** — *Special brushes* (Dot pen) — https://help.clip-studio.com/en-us/manual_en/240_brushes/Special_brushes.htm — *Anti-aliasing* (Advanced Tool Settings: None/Weak/Middle/Strong) — https://help.clip-studio.com/en-us/manual_en/810_subtools/A.htm — *Change Image Resolution* (Smooth edges / Hard edges (nearest neighbor) / Clear edges / High accuracy) — https://help.clip-studio.com/en-us/manual_en/210_file/Change_canvas_size.htm — *Creating a new canvas* (timeline Image interpolation) — https://help.clip-studio.com/en-us/manual_en/210_file/Creating_a_New_Canvas.htm — *Ruler bar and grid* — https://help.clip-studio.com/en-us/manual_en/270_canvas/Using_the_ruler_bar_and_grid.htm — *Preferences* (Display quality) — https://help.clip-studio.com/en-us/manual_en/720_preferences/Preferences.htm — *Color Set palette* — https://help.clip-studio.com/en-us/manual_en/300_color/Color_Set_palette.htm — *Exporting files* — https://help.clip-studio.com/en-us/manual_en/210_file/Exporting_files.htm — *Export animation* (GIF dithering, image sequences) — https://help.clip-studio.com/en-us/manual_en/600_animation/Export_animation.htm — *Filters* (Mosaic) — https://help.clip-studio.com/en-us/manual_en/390_filters/Filters.htm — Release notes (Ver. 5 palette renames) — https://www.clipstudio.net/en/dl/release_note/latest/
+- **Clip Studio TIPS (official tutorial site)** — KevinFarias, *How to make PIXEL ART Animation in Clip Studio Paint* — https://tips.clip-studio.com/en-us/articles/5314 — babeoded, *Animated Retro Pixel Art for Game Splash Screen* (128×72 canvas, Dot pen, Hard edges timeline, image-sequence export) — https://tips.clip-studio.com/en-us/articles/3562 — babeoded, *Making Pixel Art Forest Tilesets* (Color Set palettes, 32×32 tiles) — https://tips.clip-studio.com/en-us/articles/7567 — Naoi21-arts, *Turn Your Illustrations into Pixel Art Using Clip Studio* (names the grid dialog's "Gap(D)" and "Number of divisions" fields) — https://tips.clip-studio.com/en-us/articles/5384 — FrostDrive, *Pixel Art Practices Explained Simply* (why not to scale in the export dialog) — https://tips.clip-studio.com/en-us/articles/5360 — TamilVolk, *Dive into Pixel Art* — https://tips.clip-studio.com/en-us/articles/5277 — robertoivy_01, *Pixel Art Characters: Workflow, Setup & Styles* — https://tips.clip-studio.com/en-us/articles/11460 — Livresquare, *Creating Pixel Character Art: from Sketch to Sprite* — https://tips.clip-studio.com/en-us/articles/11408
+- **Official CLIP STUDIO PAINT channel — pixel-art videos** — Brandon James Greer, *How to correctly scale and texture pixel art in Clip Studio Paint* — https://www.youtube.com/watch?v=LgDA3RqbgCY — *Animate your pixel art with Clip Studio Paint!* — https://www.youtube.com/watch?v=L3AXOqtuY2o — *Designing pixel art characters and game scenes!* — https://www.youtube.com/watch?v=lIhpsoSFtBo — Dadotronic, *How to make custom pixel art tools in Clip Studio Paint* — https://www.youtube.com/watch?v=ChwPpSbD524
+
+## Software — pixel art in ibisPaint X (Lesson 18; all official ibis inc. pages)
+
+- **Lecture 53. Display Grid on the Canvas** — https://ibispaint.com/lecture/index.jsp?no=171&lang=en — The official pixel-art setup: 32×32 canvas, Grid on, Display when zooming → Pixelated, Digital Pen at 1.0 px.
+- **Lecture 184. View Menu Details** (Grid Settings; Display when zooming: "'Pixelated' is better when drawing pixel art") — https://ibispaint.com/lecture/index.jsp?no=168&lang=en
+- **Lecture 179. Details of Brush Parameters** (Antialias, MSAA, Texture Antialiasing) — https://ibispaint.com/lecture/index.jsp?no=118&lang=en
+- **Lecture 180. Bucket tool details** (Strength, Expansion) — https://ibispaint.com/lecture/index.jsp?no=82&lang=en
+- **Lecture 67. Changing image resolution with Resize** (Nearest Neighbor (Pixel) "recommended for enlarging and reducing pixel art") — https://ibispaint.com/lecture/index.jsp?no=77&lang=en
+- **Lecture 182. Transform Tool Details** (Interpolation Method: Nearest Neighbor (Dot)) — https://ibispaint.com/lecture/index.jsp?no=154&lang=en
+- **Lecture 54. Export an Artwork (Save)** (PNG, Transparent, the AI "Super-resolution x2" to avoid) — https://ibispaint.com/lecture/index.jsp?no=206&lang=en
+- **New-features page** (Grid and "Display when zooming" under Ver. 10; palettes under Ver. 14) — https://ibispaint.com/newFeature.jsp?lang=en — **Release notes**: ver. 10.0.1 (grid; zoom interpolation) — https://ibispaint.com/information.jsp?newsID=54735849 — ver. 9.0.0 (Nearest Neighbor in the Transform tool) — https://ibispaint.com/information.jsp?newsID=22182838
+- **News: "How to draw Pixel Art"** (official video by the creator Esu, on the official ibisPaint channel) — https://ibispaint.com/information.jsp?newsID=26557593
+
+## Software — pixel editors (Lesson 18; the tools' own sites and repositories)
+
+- **Pixelorama** — Orama Interactive — free, MIT — homepage and docs: https://pixelorama.org/ — itch.io page (Windows/macOS/Linux/Android builds and the in-browser version): https://orama-interactive.itch.io/pixelorama — GitHub: https://github.com/Orama-Interactive/Pixelorama — Timeline, onion skin, frame tags, indexed mode, palettes, spritesheet/GIF/APNG export, tilemap layers.
+- **LibreSprite** — free, GPLv2 — https://libresprite.github.io/ — GitHub: https://github.com/LibreSprite/LibreSprite — "Fork of the last GPLv2 commit of Aseprite" (2016), developed independently; Windows, macOS, Linux, Android, web build.
+- **Piskel** — Julian Descottes — free, Apache-2.0 — https://www.piskelapp.com/ — GitHub: https://github.com/piskelapp/piskel — Browser sprite editor with GIF/PNG/spritesheet export; desktop builds are best-effort and dated (the site recommends the web version).
+- **GraphicsGale** — HUMANBALANCE — freeware since June 2017, Windows only — https://graphicsgale.com/us/ — Onion skin, real-time preview, palette control, sprite-sheet and GIF export.
+- **Pixilart editor** — free, browser — https://www.pixilart.com/draw — Frames, onion skin, pixel-perfect pencil toggle, GIF/WEBP/MP4/sprite-sheet export.
+- **Krita** — free, GPLv3 — *Animation* — https://docs.krita.org/en/user_manual/animation.html — *Display settings* (Nearest Neighbour canvas scaling, pixel grid) — https://docs.krita.org/en/reference_manual/preferences/display_settings.html — *Onion skin docker* — https://docs.krita.org/en/reference_manual/dockers/onion_skin.html — *Brush preset bundle* (the Pixel presets) — https://docs.krita.org/en/reference_manual/krita_4_preset_bundle.html
+- **GIMP** — free, GPL — *Pencil tool* ("does not even do anti-aliasing") — https://docs.gimp.org/en/gimp-tool-pencil.html — *Indexed mode* — https://docs.gimp.org/en/gimp-image-convert-indexed.html — *Scale Image* — https://docs.gimp.org/en/gimp-image-scale.html
+- **Aseprite** — Igara Studio — $19.99 for official builds; source available for personal compilation — https://www.aseprite.org/ — FAQ (price, the 2016 licence change, "download its source code, compile it, and use it for your personal purposes") — https://www.aseprite.org/faq/ — GitHub — https://github.com/aseprite/aseprite — EULA — https://raw.githubusercontent.com/aseprite/aseprite/main/EULA.txt — Docs: *Color modes* (Indexed, up to 256) — https://www.aseprite.org/docs/color-mode/ — *Color bar* (the palette lock) — https://www.aseprite.org/docs/color-bar/ — *Timeline* — https://www.aseprite.org/docs/timeline/ — *Onion skinning* — https://www.aseprite.org/docs/onion-skinning/ — *Tags* — https://www.aseprite.org/docs/tags/ — *Loop section* — https://www.aseprite.org/docs/loop/ — *Sprite sheet export* — https://www.aseprite.org/docs/sprite-sheet/ — *Command-line interface* — https://www.aseprite.org/docs/cli/ — *Default palette* (DawnBringer 32) — https://www.aseprite.org/docs/default-palette/ — MortMort's video on-ramps: *Aseprite Guide for Beginners* — https://www.youtube.com/watch?v=Md6W79jtLJM — *Aseprite Animation Timeline & tools* — https://www.youtube.com/watch?v=N4Z4MdZ1KWY
+
+## Software — pixel-perfect game settings (Lesson 18; official documentation)
+
+- **Godot — Multiple resolutions** (stretch mode viewport, aspect keep, integer scale mode, snap settings; "Most pixel art games use viewport sizes between 256×224 and 640×480") — https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html — *Importing images* (Lossless for pixel art) — https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_images.html — *Sprite2D* class reference (the pixel-snap note) — https://docs.godotengine.org/en/stable/classes/class_sprite2d.html
+- **Unity — Pixel Perfect Camera (URP)** — component reference — https://docs.unity3d.com/6000.3/Documentation/Manual/urp/2d-pixelperfect-ref.html — *Add a pixel perfect camera* (sprite prerequisites: same Pixels Per Unit, Filter Mode Point, Compression None) — https://docs.unity3d.com/6000.3/Documentation/Manual/urp/2d-pixelperfect-prep-sprites.html
+- **Unreal — Import & use Paper 2D sprites** ("Sprite Actions > Apply Paper 2D Import Settings … removes Mipmaps, sets the Filter to Nearest") — https://dev.epicgames.com/documentation/en-us/unreal-engine/how-to-import-and-use-paper-2d-sprites-in-unreal-engine — *Orthographic camera* — https://dev.epicgames.com/documentation/unreal-engine/orthographic-camera-in-unreal-engine?lang=en-US
+- **MDN — image-rendering** (`pixelated`, `crisp-edges`) — https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering — **CanvasRenderingContext2D.imageSmoothingEnabled** — https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/imageSmoothingEnabled
+
+## Free, legal practice material for pixel art
+
+- **Kenney — free game assets (CC0)** — https://kenney.nl/assets — e.g. *Pixel Platformer* (18×18 tiles) — https://kenney.nl/assets/pixel-platformer — *Tiny Dungeon* (16×16) — https://kenney.nl/assets/tiny-dungeon — Public-domain (CC0) sprites you may open in your editor, study pixel by pixel, recolour, and re-animate without asking anyone.
+- **PICO-8 Education Edition** — Lexaloffle — free in the browser — https://www.pico-8-edu.com/ — about page: https://www.lexaloffle.com/pico-8.php?page=schools — A 128×128, 16-colour, 8×8-sprite fantasy console with its own sprite editor; the purest constraint gym there is. (The full PICO-8 is paid; the education edition lacks only exporters and the cartridge browser.)
+
 ## Public-domain study shelf
 
 - **Superman – The Complete Collection** (Fleischer, 1941–43) — https://archive.org/details/superman-the-complete-collection-fleischerfamous-studios — flight, capes, electricity, fire, water, staging.
@@ -1817,42 +2558,70 @@ A last connecting thought, because it is the whole point: **nothing in this less
 
 ## The paid shelf (not free — listed for honesty, with legal access routes)
 
-These four books are the craft's holy texts, and none is legally free online. As of this guide's check (16 Aug 2026), none had a borrowable controlled-lending copy on Open Library/Internet Archive either — so the honest free route is your **public library** (physical or via the Libby app); otherwise, used copies are plentiful.
+These four books are the craft's holy texts, and none is legally free online (two pixel-art items follow them). As of this guide's check (16 Aug 2026), none had a borrowable controlled-lending copy on Open Library/Internet Archive either — so the honest free route is your **public library** (physical or via the Libby app); otherwise, used copies are plentiful.
 
 - **The Animator's Survival Kit** — Richard Williams — *the* modern textbook of timing, spacing, and walks; Lesson 4 is heavily in its debt.
 - **The Illusion of Life: Disney Animation** — Frank Thomas & Ollie Johnston — the source of the twelve principles, and the best-illustrated animation book ever printed.
 - **Elemental Magic, Volume I** — Joseph Gilland — the classic on hand-drawn effects: fire, water, smoke, magic.
 - **Cartoon Animation** — Preston Blair (modern Walter Foster edition) — the revised, in-print descendant of the free 1940s book above.
+- **Pixel Logic – A Guide to Pixel Art** — Michael Azzi — the modern visual pixel-art textbook (line art, anti-aliasing, colour, readability, dithering, sub-pixelling, animation); a 242-page PDF sold for about $10 — https://michafrar.gumroad.com/l/pixel-logic — (the Scribd/archive copies that circulate are unauthorised; don't).
+- **Aseprite** — Igara Studio — the standard pixel-animation program; $19.99 for the official builds, or free if you compile the public source yourself for personal use (details and links in Lesson 18).
 
 ---
 
 # Master Glossary (same wording as the lessons — that's the point)
 
+- **1-bit** — a palette of exactly two colours.
+- **anti-aliasing (AA)** — placing in-between colours by hand at the stair-steps of an edge so it reads smoother at real size; as an *app setting*, the automatic edge-softening that stays off for pixel art.
 - **anticipation** — a small preparatory move (often in the opposite direction) before the main action; the wind-up before the pitch.
 - **arc** — the curved path almost every natural motion travels along.
 - **animating "on ones" / "on twos"** — a new drawing every frame (24/sec) / each drawing held 2 frames (12/sec).
 - **animation folder** (Clip Studio) — the container whose cels are treated as frames of one animated element.
+- **banding** — parallel bands of colour hugging a shape's edge like contour lines; the eye sees the borders instead of the form.
 - **boiling** — the lively shimmer when redrawn lines wobble slightly frame to frame; noise when accidental, texture when chosen.
 - **breakdown** — the drawing between two keys that decides *how* the motion travels, not just where it ends.
 - **cel** — one drawing in the animation stack (a layer, or folder of layers, in Clip Studio).
+- **cluster** — a continuous group of touching pixels of the same colour; the brushstroke of pixel art.
 - **contrapposto** — the natural stance with weight on one leg, hips tilted one way, shoulders counter-tilted.
 - **counter-rotation** — hips twist one way, shoulders twist the other; the body's balancing twist.
 - **cycle** — a set of drawings that loops seamlessly; the last flows back into the first.
+- **dithering** — placing two colours in a pattern (checkerboard, stripes, ordered grids) so the eye blends them into a third colour or a texture.
+- **doubles** — a spot where a one-pixel line has two pixels side by side at a corner, so it looks thicker there.
 - **drag** — a trailing part lags behind because its base moved first.
 - **flipbook** — Unreal's name for a playable stack of sprite frames; a good mental model for game animation everywhere.
 - **flour sack** — the classic practice prop: a half-full sack animated as a character; all acting, no face.
 - **follow-through** — loose parts (hair, cloth, tails, flesh) keep moving after the main body stops.
 - **fps (frames per second)** — how many frames play each second.
 - **frame** — one single image in an animation; film traditionally shows 24 per second.
+- **frame tag** — in Aseprite and Pixelorama, a named range of frames (`idle`, `walk`) treated as one animation.
+- **hold** — a drawing shown longer than its neighbours; in pixel art, holds do much of the acting.
+- **hue / saturation / value** — a colour's family (red, teal…); its intensity (grey → vivid); its lightness.
+- **hue-shifting** — moving the hue as a ramp goes from shadow to light (cooler in shadow, warmer in light) instead of only changing the value.
+- **idle** — what a game character does while the player does nothing; a short loop, and the sprite's chief personality display.
 - **inbetween** — a drawing that fills the gap between two key drawings.
+- **indexed colour** — an image format in which each pixel stores a palette number, not a colour; change the palette and the whole picture recolours.
+- **integer scaling** — enlarging only by whole numbers (2×, 3×, 4×) so every pixel stays a clean square.
+- **jaggies** — unintended bumps and uneven stair-steps along a line or curve, where the steps don't follow a consistent rhythm.
 - **key drawing** — one of the main storytelling drawings; the rest exist to connect the keys.
 - **light table** (Clip Studio) — pins reference drawings faintly under your working cel, like a lit glass desk.
 - **line of action** — the single imaginary curve running through a pose, giving it energy and direction.
+- **milliseconds per frame (ms)** — the per-frame timing pixel tools use: 100 ms = 10 fps · 125 ms = 8 fps · 83 ms ≈ 12 fps · 50 ms = 20 fps.
+- **nearest neighbour** — scaling that copies each pixel as a hard square with no blur; also called hard edges, point, none, or pixelated.
 - **onion skin** — a ghost view of the frames before/after the one you're drawing.
+- **orphan pixel** — a single pixel touching no other pixel of its colour; noise unless it is deliberately a particle or texture.
+- **outline / selective outline ("selout")** — a dark line around a sprite's silhouette / an outline that lightens where the light hits and darkens in shadow instead of being flat black.
 - **overlapping action** — different parts start and stop at slightly different times, never all at once.
 - **overshoot and settle** — motion goes slightly past its target, then eases back into place.
+- **palette** — the fixed list of colours an image is allowed to use.
+- **palette swap** — reusing one sprite with a different palette to make a "new" character.
+- **pillow shading** — shading every edge dark towards a bright centre with no light direction; everything looks like a cushion.
 - **pivot / origin** — the anchor point of a sprite (feet, center); keep it consistent across frames or the character jitters.
+- **pixel** — "picture element": the smallest square of colour a screen can show; in pixel art, the only building block, placed by hand.
+- **pixel-perfect line / mode** — a one-pixel line that connects diagonally without doubles / the pencil mode in pixel editors that removes doubles as you draw.
+- **P·I·X·L** — the Part VII pocket mnemonic: Palette small · Integer scale · eXport PNG · Look at 100 %.
 - **pose to pose / straight ahead** — plan key drawings first, then fill between / draw frame 1, 2, 3…, discovering as you go.
+- **ramp** — a short row of palette colours from dark to light used to shade one material.
+- **resolution / canvas size** — the width × height of an image in pixels; "low resolution" simply means few pixels.
 - **secondary action** — a smaller supporting action layered on the main one, adding character without stealing focus.
 - **silhouette** — the solid-black outline shape of a pose; if the action reads in silhouette, it reads.
 - **slow in and slow out** — bunching drawings at the start and end of a move so it eases in and out.
@@ -1862,6 +2631,7 @@ These four books are the craft's holy texts, and none is legally free online. As
 - **sprite sheet** (texture atlas) — many animation frames packed into one image in a grid, sliced apart by the engine.
 - **squash and stretch** — a form flattening under force and lengthening with speed, volume constant.
 - **staging** — presenting an action so it reads instantly: clear silhouette, clear framing, one idea at a time.
+- **sub-pixel animation** — faking movement smaller than one pixel by changing the colours at an edge instead of moving whole pixels.
 - **texture filtering** — how an engine smooths a scaled image: Nearest/Point = crisp pixels (pixel art), Linear/Bilinear = soft blending (high-res drawings).
 - **timing** — how many frames an action takes; how long it lasts; the clock of motion.
 
