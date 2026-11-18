@@ -537,4 +537,4 @@
 
 *Every sheet is the same sentence in a different costume: cause first → body next → loose parts last → settle. (C·B·L·S — "Cool Bodies Lag Softly.")*
 
-*The Living Line · CC BY 4.0 © esorhizome OÜ*
+*The Living Line · CC BY 4.0 © Sarah Clemencia Gomes (esorhizome)*

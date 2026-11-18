@@ -6,7 +6,7 @@
 
 *August 2026 · Every link in this guide was fetched and checked live on 16 August 2026; the links in Part VII (The Pixel, Lessons 15–18) on 20 August 2026.*
 
-*Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © esorhizome OÜ — share and adapt freely, with attribution.*
+*Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © Sarah Clemencia Gomes (esorhizome) — share and adapt freely, with attribution.*
 
 ---
 
@@ -2653,5 +2653,5 @@ Happy animating. Draw the contact pose first.
 
 ---
 
-*The Living Line is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © esorhizome OÜ.*
+*The Living Line is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © Sarah Clemencia Gomes (esorhizome).*
 

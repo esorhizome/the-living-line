@@ -29,4 +29,4 @@
 
 ---
 
-*The Living Line · [full guide](../The_Living_Line_Guide.md) · CC BY 4.0 © esorhizome OÜ*
+*The Living Line · [full guide](../The_Living_Line_Guide.md) · CC BY 4.0 © Sarah Clemencia Gomes (esorhizome)*

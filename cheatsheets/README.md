@@ -26,4 +26,4 @@ One sheet per lesson, each sized to be **screenshotted onto a phone** or printed
 
 All nineteen also live concatenated in [one printable file](../The_Living_Line_Cheat_Sheets.md).
 
-*CC BY 4.0 © esorhizome OÜ*
+*CC BY 4.0 © Sarah Clemencia Gomes (esorhizome)*

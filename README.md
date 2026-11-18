@@ -38,4 +38,4 @@ Animate the thing that causes the motion, then the body that carries it, then th
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © [esorhizome OÜ](https://github.com/esorhizome) — share it, adapt it, teach from it; just credit the source.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © [Sarah Clemencia Gomes (esorhizome)](https://github.com/esorhizome) — share it, adapt it, teach from it; just credit the source.
